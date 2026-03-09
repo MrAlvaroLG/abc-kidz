@@ -229,7 +229,7 @@ export const seoConfig = {
     // VERIFICACIONES (Search Console, etc.)
     // ============================================
     verification: {
-        google: "TU-CODIGO-GOOGLE-SEARCH-CONSOLE", // TODO: Agregar código real
+        google: null, // Agregar código real de Google Search Console aquí
         bing: null,
         yandex: null,
     },
