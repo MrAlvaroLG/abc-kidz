@@ -1,0 +1,161 @@
+@import "tailwindcss";
+
+@theme {
+    --color-navy-900: #001D3D;
+    --color-blue-800: #003566;
+    --color-accent: #FFC300;
+    --color-accent-hover: #FFD60A;
+    --color-danger: #DC562E;
+    --color-bg: #EBEBEB;
+    --color-surface: #FFFFFF;
+    --color-dark: #0B1220;
+    --color-light: #FFFFFF;
+
+    /* Radius System */
+    --radius-lg: 1.5rem; /* 24px - Large Cards */
+    --radius-md: 1rem;   /* 16px - Standard Cards/Buttons */
+    --radius-sm: 0.5rem; /* 8px - Small elements */
+
+    /* Spacing System (Semantic) */
+    --spacing-container: 2rem; /* Mobile padding */
+    --spacing-section: 4rem;   /* Mobile section gap */
+    --spacing-section-lg: 8rem; /* Desktop section gap */
+}
+
+body {
+    font-family: var(--font-poppins, system-ui, sans-serif);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Estilos para títulos principales */
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-fredoka, var(--font-poppins, sans-serif));
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+/* ========================================
+   CUSTOM ANIMATIONS FOR HERO SECTION
+   ======================================== */
+
+/* Floating animation */
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+}
+
+.animate-float {
+    animation: float 3s ease-in-out infinite;
+}
+
+.delay-100 {
+    animation-delay: 100ms;
+}
+
+.delay-200 {
+    animation-delay: 200ms;
+}
+
+.delay-300 {
+    animation-delay: 300ms;
+}
+
+.delay-500 {
+    animation-delay: 500ms;
+}
+
+.delay-700 {
+    animation-delay: 700ms;
+}
+
+/* Gradient animation */
+@keyframes gradient-x {
+    0%, 100% {
+        background-size: 200% 200%;
+        background-position: left center;
+    }
+    50% {
+        background-size: 200% 200%;
+        background-position: right center;
+    }
+}
+
+.animate-gradient-x {
+    animation: gradient-x 3s ease infinite;
+}
+
+/* Ping slow animation for circles */
+@keyframes ping-slow {
+    75%, 100% {
+        transform: scale(1.1);
+        opacity: 0;
+    }
+}
+
+.animate-ping-slow {
+    animation: ping-slow 3s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+/* Scroll indicator animation */
+@keyframes scroll {
+    0% {
+        opacity: 0;
+        transform: translateY(0);
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(12px);
+    }
+}
+
+.animate-scroll {
+    animation: scroll 2s ease-in-out infinite;
+}
+
+/* Smooth transitions for interactive elements */
+@media (prefers-reduced-motion: no-preference) {
+    * {
+        scroll-behavior: smooth;
+    }
+}
+
+/* Glassmorphism utilities */
+.glass {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* ========================================
+   3D FLIP CARD UTILITIES
+   ======================================== */
+
+/* Perspective container for 3D effect */
+.perspective-1000 {
+    perspective: 1000px;
+}
+
+/* Preserve 3D transforms for children */
+.transform-style-3d {
+    transform-style: preserve-3d;
+}
+
+/* Hide backface of cards during flip */
+.backface-hidden {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+}
+
+/* Rotate Y axis for flip effect */
+.rotate-y-180 {
+    transform: rotateY(180deg);
+}

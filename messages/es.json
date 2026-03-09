@@ -1,0 +1,928 @@
+{
+  "navbar": {
+    "programs": "Programas",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "about": "Sobre Nosotros",
+    "terms": "Términos"
+  },
+  "common": {
+    "previousProgram": "Programa Anterior",
+    "nextProgram": "Siguiente Programa"
+  },
+  "language": {
+    "en": "Inglés",
+    "es": "Español",
+    "switch": "Cambiar idioma"
+  },
+  "hero": {
+    "title": "Donde aprender",
+    "subtitle": "es divertido!",
+    "description": "Un entorno enriquecedor que inspira curiosidad y desarrolla habilidades para toda la vida. En ABC Kidz, creamos un ambiente seguro, divertido y educativo donde su hijo desarrollará todo su potencial.",
+    "cta": {
+      "primary": "Agendar una Visita",
+      "secondary": "Ver Programas"
+    },
+    "trust": {
+      "primary": "Únete a nuestra familia",
+      "secondary": "Más de 500 familias confían en nosotros"
+    },
+    "scroll": "Descubre más"
+  },
+  "trustSection": {
+    "title": "La confianza de las familias",
+    "subtitle": "Lo que dicen los padres que confían en nosotros día a día",
+    "googleRating": {
+      "label": "Calificación de Google",
+      "verified": "Reseñas verificadas",
+      "reviews": "reseñas"
+    },
+    "familiesTrust": "familias han confiado en nosotros el cuidado y educación de sus hijos",
+    "testimonials": {
+      "title": "Lo que dicen nuestros padres en Google",
+      "role": "Reseña verificada de Google",
+      "items": [
+        {
+          "name": "Aidelyn Brage",
+          "text": "Estoy encantada con el cuidado que recibe mi hijo en la guardería ABC Kidz. El personal es amable, paciente y siempre profesional. El lugar es limpio, seguro y muy bien organizado. ¡Lo recomiendo ampliamente!",
+          "rating": 5
+        },
+        {
+          "name": "Jessica Summers",
+          "text": "ABC Kidz es una guardería excelente para los niños. Son muy amables, profesionales y cariñosos con nuestros pequeños. Mi hijo, que ya empezó el kínder, quiere volver todos los días con sus hermanas.",
+          "rating": 5
+        },
+        {
+          "name": "Mariana Garcia",
+          "text": "Una de las mejores experiencias para nuestro niño y nosotros como padres! La atención, el cariño y la calidad de cuidado son excepcionales ✨ Vamos a extrañarlas mucho, muy agradecida por el trabajo que hicieron con mi peque✨",
+          "rating": 5
+        },
+        {
+          "name": "Maria Parra",
+          "text": "Excelente servicio las maestras son un amor me voy a mi trabajo con la seguridad que mi bebé está bien cuidado y aprendiendo 🥰",
+          "rating": 5
+        }
+      ]
+    }
+  },
+  "programsSection": {
+    "title": "Nuestros Programas",
+    "subtitle": "Cada programa está cuidadosamente planificado para convertir las experiencias cotidianas en oportunidades de aprendizaje significativas",
+    "cta": "Ver todos los programas",
+    "learnMore": "Más Información",
+    "ageLabels": {
+      "months": "meses",
+      "years": "años"
+    },
+    "programs": {
+      "infants": {
+        "name": "Bebés",
+        "tagline": "Cuidado amoroso. Los bebés florecen con nosotros.",
+        "description": "Bienvenidos bebés de 0 a 12 meses, nuestro programa proporciona un refugio seguro para sus seres queridos más pequeños. Basado en cuidado individualizado, nuestros cuidadores experimentados priorizan las necesidades únicas de cada niño, asegurando que se sientan queridos y apoyados desde el principio. A través de la exploración sensorial, los bebés interactúan con su entorno, sentando las bases para el crecimiento cognitivo y emocional.",
+        "highlights": [
+          "Cuidado individualizado adaptado a las necesidades únicas de cada niño",
+          "Exploración sensorial para crecimiento cognitivo y emocional",
+          "Interacciones gentiles que fomentan conexiones sociales y confianza",
+          "Ambiente de cuidado diseñado para los primeros meses cruciales"
+        ]
+      },
+      "toddlers": {
+        "name": "Niños Pequeños",
+        "tagline": "Descubrir, jugar, crecer. Aventura de aprendizaje.",
+        "description": "Guiados por la creencia de que el aprendizaje es un viaje emocionante, fomentamos la exploración a través de actividades prácticas que cautivan su imaginación. A medida que se sumergen en un mundo de colores, formas y juego, estas experiencias se convierten en los bloques de construcción para el desarrollo cognitivo. Al interactuar con otros niños pequeños, aprenden a compartir, comunicarse y desarrollar habilidades sociales esenciales en un entorno amigable.",
+        "highlights": [
+          "Actividades prácticas que cautivan la imaginación",
+          "Exploración de colores, formas y juego para desarrollo cognitivo",
+          "Aprenden a compartir y comunicarse en entorno amigable",
+          "Cada descubrimiento es celebrado, fomentando amor por la exploración"
+        ]
+      },
+      "prek": {
+        "name": "Pre-K",
+        "tagline": "Inicio seguro al Kindergarten: Inscríbete en Pre-K.",
+        "description": "Nuestro programa Pre-K, diseñado para niños de 3 a 4 años, sienta una base sólida para una transición exitosa al kindergarten. A través del aprendizaje estructurado, introducimos conceptos esenciales incluyendo letras, números, alfabetización y habilidades matemáticas fundamentales. Nuestro currículo fomenta el crecimiento social al alentar el juego cooperativo y proyectos colaborativos.",
+        "highlights": [
+          "Base sólida en letras, números, lectoescritura y matemáticas",
+          "Juego cooperativo y proyectos colaborativos para crecimiento social",
+          "Coordinación motora fina para escritura y expresión creativa",
+          "Desarrollo académico, social y emocional con confianza"
+        ]
+      },
+      "vpk": {
+        "name": "VPK",
+        "tagline": "Excelencia VPK: Construyendo futuros brillantes juntos.",
+        "description": "VPK (Prekindergarten Voluntario) prepara el escenario para una transición exitosa al kindergarten, respaldado por apoyo estatal. Estamos dedicados a nutrir el crecimiento del lenguaje y cognitivo a través de experiencias interactivas que cautivan las mentes jóvenes. A medida que exploran conceptos matemáticos, su comprensión se profundiza y se desarrollan habilidades de resolución de problemas.",
+        "highlights": [
+          "Programa respaldado por el estado con apoyo oficial",
+          "Crecimiento de lenguaje y habilidades cognitivas interactivas",
+          "Énfasis en pre-lectura y pre-escritura para encender alfabetización",
+          "Cultivan amor por la exploración y confianza para su camino educativo"
+        ]
+      },
+      "after_school": {
+        "name": "After School",
+        "tagline": "¿No hay escuela? Nosotros estamos aquí.",
+        "description": "El programa para edad escolar es para niños de 5 a 12 años que, por cualquier motivo, no asisten a la escuela en un día determinado durante el año. Ofrecemos cuidado confiable y enriquecedor que se extiende más allá de los períodos académicos, asegurando que los niños tengan un entorno seguro y estimulante durante todo el año.",
+        "highlights": [
+          "Cuidado confiable y enriquecedor más allá de los períodos académicos",
+          "Actividades cuidadosamente seleccionadas y atractivas",
+          "Proyectos interactivos y actividades grupales",
+          "Fomento del compromiso social, el aprendizaje, la creatividad y la diversión"
+        ]
+      }
+    }
+  },
+  "ctaSection": {
+    "badge": "Tour Gratuito",
+    "title": "¿Listo para que tu hijo sea parte de nuestra familia?",
+    "subtitle": "Completa el formulario y agenda un tour para conocer nuestras instalaciones y equipo.",
+    "actionText": "Elige cómo te gustaría conectar con nosotros",
+    "or": "o",
+    "features": {
+      "education": "Educación de Calidad",
+      "care": "Cuidado Personalizado",
+      "community": "Comunidad Familiar"
+    },
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "date": "Fecha preferida",
+      "submit": "Agendar una Visita",
+      "sending": "Enviando..."
+    },
+    "whatsapp": {
+      "button": "Escríbenos por WhatsApp",
+      "subtitle": "Respuesta rápida • Disponible ahora"
+    },
+    "disclaimer": "Nos pondremos en contacto por correo para confirmar tu visita.",
+    "trustIndicators": {
+      "noCommitment": "Sin compromiso",
+      "response24h": "Respuesta en 24 horas",
+      "free": "100% gratuito"
+    },
+    "socialMedia": {
+      "title": "¡Descubre Nuestros Momentos Diarios!",
+      "subtitle": "Visita nuestras redes sociales y explora las actividades, proyectos y momentos que tu hijo disfrutará."
+    }
+  },
+  "locationSection": {
+    "title": "Visítanos",
+    "subtitle": "Estamos ubicados en el corazón de Tampa. Ven a conocer nuestras instalaciones.",
+    "address": {
+      "label": "Dirección"
+    },
+    "phone": {
+      "label": "Teléfono"
+    },
+    "email": {
+      "label": "Email"
+    },
+    "scheduleTitle": "Horario de Atención",
+    "schedule": {
+      "monday": "Lunes",
+      "tuesday": "Martes",
+      "wednesday": "Miércoles",
+      "thursday": "Jueves",
+      "friday": "Viernes",
+      "saturday": "Sábado",
+      "sunday": "Domingo",
+      "closed": "Cerrado"
+    },
+    "form": {
+      "title": "Envíanos un mensaje",
+      "subtitle": "¿Tienes alguna pregunta? Estamos aquí para ayudarte.",
+      "name": "Nombre completo",
+      "namePlaceholder": "Juan Pérez",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@email.com",
+      "phone": "Teléfono",
+      "phonePlaceholder": "+1 (813) 123-4567",
+      "message": "Mensaje",
+      "messagePlaceholder": "Cuéntanos cómo podemos ayudarte...",
+      "submit": "Enviar mensaje",
+      "sent": "¡Mensaje enviado!",
+      "disclaimer": "We'll respond to your message within 24 hours."
+    }
+  },
+  "footer": {
+    "description": "Creando un ambiente seguro, divertido y educativo donde cada niño desarrolla todo su potencial.",
+    "followUs": "Síguenos",
+    "quickLinks": "Enlaces Rápidos",
+    "ourPrograms": "Nuestros Programas",
+    "contactInfo": "Información de Contacto",
+    "links": {
+      "about": "Sobre Nosotros",
+      "programs": "Programas",
+      "admissions": "Admisiones",
+      "blog": "Blog",
+      "contact": "Contacto"
+    },
+    "programs": {
+      "infants": "Infantes (0-12 meses)",
+      "toddlers": "Niños Pequeños (1-2 años)",
+      "prek": "Pre-Kínder (3-4 años)",
+      "vpk": "VPK (4-5 años)",
+      "after_school": "After School (5-12 años)"
+    },
+    "schedule": {
+      "weekdays": "Lun - Vie: 7:00 AM - 6:00 PM",
+      "weekend": "Sáb - Dom: Cerrado"
+    },
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos y Condiciones",
+    "accessibility": "Accesibilidad"
+  },
+  "contactPage": {
+    "meta": {
+      "title": "Contacto ABC Kidz Guardería Tampa | Agenda tu Visita | (813) 512-2511",
+      "description": "Contacta ABC Kidz guardería en Tampa FL. Agenda una visita gratis, pregunta sobre inscripciones o info sobre nuestros programas. ¡Llama al (813) 512-2511!",
+      "keywords": "contacto ABC Kidz Tampa, visita guardería Tampa, agendar cita guardería Tampa FL, inscripción guardería Tampa, información cuidado infantil Tampa"
+    },
+    "hero": {
+      "badge": "Estamos aquí para ayudarte",
+      "title": "Conectemos",
+      "subtitle": "¿Tienes preguntas sobre nuestros programas? Estamos aquí para ayudarte a encontrar la opción perfecta para tu hijo.",
+      "phone": "Teléfono",
+      "email": "Email",
+      "hours": "Horario",
+      "hoursValue": "Lun - Vie 7AM - 6PM",
+      "address": "Visítanos"
+    },
+    "form": {
+      "badge": "Ponte en Contacto",
+      "title": "Envíanos un Mensaje",
+      "subtitle": "Completa el formulario y nos pondremos en contacto contigo lo antes posible.",
+      "name": "Nombre completo",
+      "namePlaceholder": "Juan Pérez",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@email.com",
+      "phone": "Número de teléfono",
+      "phonePlaceholder": "+1 (813) 123-4567",
+      "subject": "Asunto",
+      "subjectPlaceholder": "Selecciona un asunto",
+      "subjects": {
+        "general": "Consulta general",
+        "tour": "Agendar un tour",
+        "enrollment": "Información de inscripción",
+        "programs": "Preguntas sobre programas",
+        "other": "Otro"
+      },
+      "message": "Tu mensaje",
+      "messagePlaceholder": "Cuéntanos cómo podemos ayudarte...",
+      "submit": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "sent": "¡Mensaje Enviado!",
+      "disclaimer": "Tu mensaje se abrirá en tu app de correo. Responderemos en menos de 24 horas."
+    },
+    "info": {
+      "contactDetails": {
+        "title": "Ponte en Contacto"
+      },
+      "address": {
+        "title": "Nuestra Dirección",
+        "directions": "Ver Indicaciones"
+      },
+      "phone": {
+        "title": "Llámanos",
+        "call": "Llamar Ahora"
+      },
+      "email": {
+        "title": "Escríbenos",
+        "send": "Enviar Email"
+      },
+      "schedule": {
+        "title": "Horario de Atención",
+        "subtitle": "Abiertos de lunes a viernes",
+        "monday": "Lunes",
+        "tuesday": "Martes",
+        "wednesday": "Miércoles",
+        "thursday": "Jueves",
+        "friday": "Viernes",
+        "saturday": "Sábado",
+        "sunday": "Domingo",
+        "closed": "Cerrado"
+      },
+      "social": {
+        "title": "Síguenos en Redes Sociales",
+        "subtitle": "¡Mantente conectado y mira lo que pasa en ABC Kidz!"
+      },
+      "whatsapp": {
+        "badge": "Respuesta más Rápida",
+        "title": "¡Resuelve tus dudas!",
+        "subtitle": "Obtén respuestas instantáneas a tus preguntas. ¡Normalmente respondemos en minutos!",
+        "button": "Iniciar Chat"
+      },
+      "responseTime": {
+        "title": "Respuesta Rápida Garantizada",
+        "subtitle": "Nos comprometemos a responder todas las consultas en menos de 24 horas."
+      }
+    },
+    "map": {
+      "title": "Visita Nuestro Centro",
+      "subtitle": "1745 W Fletcher Ave, Tampa, FL 33612",
+      "directions": "Obtener Indicaciones en Google Maps"
+    }
+  },
+  "programsPage": {
+    "meta": {
+      "title": "Programas de Guardería Tampa FL | Bebés, Toddlers, Pre-K, VPK Gratis",
+      "description": "Descubre los programas de ABC Kidz en Tampa. Cuidado de bebés (0-12m), toddlers (1-2 años), Pre-K, VPK GRATIS, y after school. Personal bilingüe. ¡Agenda tu visita!",
+      "keywords": "programas guardería Tampa, cuidado bebés Tampa, programa toddlers Tampa, Pre-K Tampa, VPK gratis Tampa, after school Tampa, guardería bilingüe"
+    },
+    "hero": {
+      "badge": "Programas de Excelencia",
+      "title": "Programas Diseñados para el Éxito de tu Hijo",
+      "subtitle": "Desde los primeros meses hasta la preparación para kindergarten, ofrecemos programas especializados que nutren el desarrollo integral de cada niño.",
+      "features": {
+        "love": "Cuidado con Amor",
+        "loveDesc": "Atención personalizada y cariñosa",
+        "safety": "Ambiente Seguro",
+        "safetyDesc": "Espacios seguros y estimulantes",
+        "play": "Aprendizaje Lúdico",
+        "playDesc": "Crecimiento a través del juego"
+      }
+    },
+    "benefits": {
+      "title": "¿Por qué elegir nuestros programas?",
+      "subtitle": "Beneficios clave que hacen la diferencia en el desarrollo de tu hijo",
+      "items": {
+        "individualizedCare": {
+          "title": "Cuidado Individualizado",
+          "description": "Atención personalizada que prioriza las necesidades únicas de cada niño, asegurando que se sientan queridos y apoyados."
+        },
+        "sensoryExploration": {
+          "title": "Exploración Sensorial",
+          "description": "Actividades sensoriales que permiten a los niños interactuar con su entorno, sentando bases para el crecimiento cognitivo y emocional."
+        },
+        "cognitiveGrowth": {
+          "title": "Desarrollo Cognitivo",
+          "description": "Experiencias prácticas que se convierten en bloques de construcción para el desarrollo intelectual y la resolución de problemas."
+        },
+        "socialSkills": {
+          "title": "Habilidades Sociales",
+          "description": "Aprendizaje de compartir, comunicarse y trabajar en equipo en un entorno amigable que celebra cada descubrimiento."
+        },
+        "foundationalLearning": {
+          "title": "Aprendizaje Fundamental",
+          "description": "Introducción estructurada a letras, números, lectoescritura y habilidades matemáticas esenciales para el éxito escolar."
+        },
+        "collaborativePlay": {
+          "title": "Juego Colaborativo",
+          "description": "Proyectos colaborativos y juego cooperativo que desarrollan la coordinación motora fina y la expresión creativa."
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Quieres conocernos en persona?",
+      "subtitle": "Agenda un tour y descubre por qué las familias de Tampa confían en nosotros.",
+      "scheduleVisit": "Agendar una Visita",
+      "whatsapp": "Escríbenos por WhatsApp",
+      "whatsappSubtitle": "Respuesta rápida • Disponible ahora"
+    }
+  },
+  "aboutPage": {
+    "meta": {
+      "title": "Sobre ABC Kidz Guardería Tampa | Cuidado Infantil Bilingüe de Confianza",
+      "description": "Conoce ABC Kidz - la guardería bilingüe de confianza en Tampa. Conoce nuestro equipo, misión y por qué más de 500 familias nos eligen. ¡Agenda una visita!",
+      "keywords": "sobre ABC Kidz Tampa, guardería Tampa, cuidado infantil bilingüe Tampa, guardería de confianza Tampa FL, mejor guardería Tampa, centro de cuidado infantil"
+    },
+    "hero": {
+      "badge": "Bienvenido a ABC Kidz Preschool",
+      "title": "Un equipo atento",
+      "titleHighlight": "Centrado en el desarrollo temprano",
+      "subtitle": "Con un enfoque reflexivo hacia el aprendizaje y el cuidado, apoyamos a las familias brindando un entorno seguro y enriquecedor para cada niño.",
+      "features": {
+        "feature1": "Atención personalizada para cada niño",
+        "feature2": "Ambiente de aprendizaje seguro y estimulante",
+        "feature3": "Educadores apasionados y dedicados"
+      },
+      "scroll": "Descubre Nuestra Historia"
+    },
+    "story": {
+      "label": "Nuestro Camino",
+      "title": "Una Historia Escrita con Amor",
+      "subtitle": "Construida con pasión y dedicación - descubre el corazón detrás de ABC Kidz.",
+      "imageCaption": "Donde se crean los recuerdos",
+      "imageCaptionSub": "Nuestro cariñoso equipo con niños felices",
+      "freshStart": "Nuevo Comienzo",
+      "freshStartSub": "Pasión fresca, cuidado infinito",
+      "paragraph1": "ABC Kidz nació de un sueño simple pero poderoso: crear un espacio nutritivo donde cada niño pudiera descubrir su potencial único mientras se siente completamente amado y seguro.",
+      "paragraph2": "Nuestra fundadora, con amplia experiencia en educación infantil, imaginó más que solo una guardería. Soñó con un lugar donde los niños fueran educados con excelencia mientras reciben el calor y la atención de una segunda familia.",
+      "paragraph3": "Estamos comprometidos a convertirnos en el principal centro de cuidado infantil bilingüe de Tampa, dedicados a las familias que comparten nuestra creencia de que cada niño merece el mejor comienzo en la vida.",
+      "pillarsTitle": "Nuestra Base",
+      "pillars": {
+        "love": {
+          "title": "Amor Incondicional",
+          "description": "Cada niño es bienvenido con los brazos abiertos y afecto genuino, creando un ambiente cálido donde se sienten valorados y queridos."
+        },
+        "safety": {
+          "title": "Seguridad Completa",
+          "description": "Instalaciones de última generación y personal capacitado aseguran que tu hijo esté siempre protegido en un entorno seguro y acogedor."
+        },
+        "education": {
+          "title": "Educación de Calidad",
+          "description": "Nuestro currículo orientado a la excelencia se adapta a la etapa de desarrollo de cada niño, fomentando la curiosidad y el amor por aprender."
+        },
+        "community": {
+          "title": "Comunidad Familiar",
+          "description": "Construimos alianzas fuertes con las familias, trabajando juntos para apoyar el crecimiento y éxito de cada niño."
+        }
+      },
+      "mission": {
+        "title": "Nuestra Misión",
+        "text": "ABC Kidz Preschool, Inc, es un centro de desarrollo infantil dedicado a crear una generación de niños que alcancen su potencial dado por Dios y su destino."
+      }
+    },
+    "mission": {
+      "badge": "Nuestro Propósito",
+      "title": "Nuestra Misión",
+      "description": "ABC Kidz Preschool, Inc, es un centro de desarrollo infantil dedicado a criar una generación de niños que logren su potencial divino y su destino.",
+      "highlights": [
+        "Nutrir los dones y talentos únicos de cada niño",
+        "Crear una base para el aprendizaje de por vida",
+        "Construir alianzas comunitarias sólidas con las familias",
+        "Desarrollar niños confiados, compasivos y capaces"
+      ]
+    },
+    "vision": {
+      "badge": "Hacia Dónde Vamos",
+      "title": "Nuestra Visión",
+      "description": "Nuestra visión es convertirnos en el centro de cuidado infantil más confiable y enriquecedor de la comunidad, donde cada niño se sienta seguro, valorado y motivado a explorar el mundo con curiosidad y alegría. Aspiramos a ser un espacio donde las familias encuentren apoyo integral, y donde los niños desarrollen sus habilidades cognitivas, emocionales y sociales a través de experiencias significativas y aprendizaje activo.",
+      "highlights": [
+        "Un santuario de confianza para niños y familias de nuestra comunidad",
+        "Un espacio donde cada niño se sienta valorado y empoderado",
+        "Un ambiente que nutre la curiosidad, la alegría y el crecimiento",
+        "Un socio en el viaje más importante de las familias - criar a sus hijos"
+      ]
+    },
+    "philosophy": {
+      "badge": "Cómo Trabajamos",
+      "title": "Nuestra Filosofía",
+      "description": "Nuestra filosofía se basa en la convicción de que el aprendizaje debe ser una experiencia alegre, significativa y llena de descubrimientos. Creemos firmemente que trabajar con niños es un privilegio que requiere sensibilidad, preparación y pasión. Por eso transformamos cada momento en una oportunidad de crecimiento, integrando el juego, la creatividad y la curiosidad como motores principales del desarrollo infantil.",
+      "highlights": [
+        "El aprendizaje es alegre, significativo y lleno de descubrimientos",
+        "Cada momento es una oportunidad para el crecimiento y desarrollo",
+        "El juego, la creatividad y la curiosidad impulsan el desarrollo infantil",
+        "Trabajar con niños es un privilegio sagrado que requiere pasión y preparación"
+      ]
+    },
+    "values": {
+      "badge": "Nuestros Valores Fundamentales",
+      "title": "Ocho Valores Que Nos Guían",
+      "subtitle": "Estos principios definen quiénes somos y cómo servimos a cada niño y familia",
+      "featuredLabel": "Seguridad y Bienestar",
+      "featuredTitle": "Seguridad y Bienestar Primero",
+      "featuredDescription": "Garantizamos un entorno físico y emocional seguro donde cada niño puede crecer con confianza, protegido y atendido en todo momento.",
+      "items": {
+        "safety": {
+          "title": "Seguridad y Bienestar",
+          "description": "Garantizamos un entorno físico y emocional seguro donde cada niño puede crecer con confianza, protegido y atendido en todo momento."
+        },
+        "love": {
+          "title": "Amor y Respeto",
+          "description": "Promovemos relaciones basadas en el cariño, la empatía y el respeto hacia cada niño, familia y miembro del personal."
+        },
+        "learning": {
+          "title": "Aprendizaje Activo",
+          "description": "Fomentamos la exploración, la creatividad y el descubrimiento a través de experiencias prácticas que estimulan la curiosidad natural del niño."
+        },
+        "diversity": {
+          "title": "Diversidad e Inclusión",
+          "description": "Valoramos y celebramos las diferencias culturales, lingüísticas y personales. Todos los niños son bienvenidos y tratados con equidad."
+        },
+        "communication": {
+          "title": "Comunicación Abierta con las Familias",
+          "description": "Mantenemos un diálogo constante, transparente y colaborativo con los padres para asegurar el bienestar y desarrollo de cada niño."
+        },
+        "development": {
+          "title": "Desarrollo Integral",
+          "description": "Apoyamos el crecimiento cognitivo, emocional, social y físico del niño, reconociendo que cada etapa del desarrollo es única e importante."
+        },
+        "professionalism": {
+          "title": "Profesionalismo y Ética",
+          "description": "Nuestro equipo actúa con responsabilidad, compromiso y vocación, garantizando un servicio de alta calidad."
+        },
+        "play": {
+          "title": "Juego con Propósito",
+          "description": "Creemos en el valor del juego como herramienta fundamental de aprendizaje, expresión y socialización."
+        }
+      }
+    },
+    "team": {
+      "label": "Conoce Nuestro Equipo",
+      "title": "El Corazón de ABC Kidz",
+      "subtitle": "Educadores apasionados dedicados a nutrir el potencial de tu hijo cada día",
+      "introTitle": "Haciendo la Diferencia, Un Niño a la Vez",
+      "introParagraph1": "Nuestro equipo no es solo personal - son familia. Cada educador en ABC Kidz ha sido cuidadosamente elegido por su genuina pasión por los niños y compromiso con la excelencia en educación temprana.",
+      "introParagraph2": "Unidos por nuestro amor por la enseñanza y el cuidado, creamos un ambiente donde los niños se sienten seguros para explorar, aprender y crecer como individuos seguros de sí mismos.",
+      "qualitiesTitle": "Lo Que Nos Hace Especiales",
+      "qualities": [
+        "Pasión genuina por el desarrollo y bienestar infantil",
+        "Grupos pequeños asegurando atención personalizada para cada niño",
+        "Dedicados a hacer que cada niño se sienta valorado y escuchado",
+        "Ambiente seguro y acogedor donde los niños prosperan"
+      ],
+      "closingStatement": "Para nosotros, tu hijo no es solo un estudiante - se convierte en parte de nuestra familia ABC Kidz."
+    },
+    "gallery": {
+      "badge": "La Vida en ABC Kidz",
+      "title": "Momentos que Importan",
+      "subtitle": "Destellos de alegría, aprendizaje y crecimiento de nuestras aventuras diarias",
+      "filters": {
+        "all": "Todas las Fotos",
+        "kids": "Nuestros Niños",
+        "team": "Nuestro Equipo"
+      }
+    },
+    "cta": {
+      "title": "¿Quieres conocernos en persona?",
+      "subtitle": "Agenda un tour y descubre por qué las familias de Tampa confían en nosotros.",
+      "scheduleTour": "Agendar Tour Gratuito",
+      "callNow": "Llamar Ahora"
+    }
+  },
+  "termsPage": {
+    "meta": {
+      "title": "Términos y Condiciones - ABC Kidz | Políticas y Servicios",
+      "description": "Lee nuestros términos y condiciones, políticas de inscripción, horarios y pagos. Descarga el manual completo para padres.",
+      "keywords": "términos ABC Kidz, políticas guardería Tampa, manual padres, condiciones servicio, inscripción"
+    },
+    "hero": {
+      "title": "Términos y Condiciones",
+      "subtitle": "Información importante sobre nuestros servicios, políticas y procedimientos",
+      "lastUpdated": "Última actualización",
+      "date": "Noviembre 2024"
+    },
+    "sections": {
+      "enrollment": {
+        "title": "Inscripción y Admisión",
+        "items": [
+          {
+            "subtitle": "Los siguientes requisitos son necesarios para la admisión en nuestro preescolar:",
+            "content": [
+              "Formulario de solicitud de inscripción completado en su totalidad",
+              "Cuota de inscripción y matrícula de la primera semana pagada en su totalidad",
+              "Recibo del manual para padres firmado y archivado",
+              "Certificado de Inmunización (requerido por el estado)",
+              "Examen físico (requerido por el estado)"
+            ]
+          }
+        ]
+      },
+      "hours": {
+        "title": "Horarios y Operación",
+        "items": [
+          {
+            "subtitle": "Horario de Operación",
+            "content": "Estamos abiertos de lunes a viernes de 7:00 AM a 6:00 PM. Permanecemos cerrados los días festivos federales y durante las vacaciones de fin de año según calendario anual."
+          },
+          {
+            "subtitle": "Llegadas y Salidas",
+            "content": [
+              "Los niños deben ser entregados y recogidos personalmente por los padres o tutores autorizados",
+              "Se requiere firma en el registro de entrada y salida",
+              "No se aceptan entradas después de las 9:30 AM porque interrumpen las actividades"
+            ]
+          },
+          {
+            "subtitle": "Días Festivos",
+            "content": "El centro permanece cerrado en días festivos federales. Se proporciona un calendario anual al inicio del año escolar con todas las fechas de cierre."
+          }
+        ]
+      },
+      "payment": {
+        "title": "Pagos y Tarifas",
+        "items": [
+          {
+            "subtitle": "Inscripción y Colegiatura Semanal",
+            "content": "Se requiere el pago de una matrícula inicial no reembolsable al momento de la inscripción. Los pagos de colegiatura se realizan estrictamente de forma semanal y deben liquidarse en su totalidad cada lunes."
+          },
+          {
+            "subtitle": "Métodos de Pago Aceptados",
+            "content": [
+              "Transferencia bancaria o ACH (preferido)",
+              "Tarjeta de crédito o débito",
+              "Cheque o money order",
+              "Cargo por recogida tardía: $10 más $1 por minuto",
+              "Se aplicará automáticamente un cargo por mora no negociable de $15 todos los martes a las 9:30 AM a cualquier saldo pendiente"
+            ]
+          },
+          {
+            "subtitle": "Política de Reembolsos y Cancelación",
+            "content": "No se otorgan créditos ni reembolsos por ausencias, vacaciones o días festivos. Se requiere una notificación formal por escrito con un mínimo de dos (2) semanas de antelación para la cancelación de la inscripción."
+          },
+          {
+            "subtitle": "Cargos Adicionales",
+            "content": "Los servicios auxiliares como excursiones educativas, fotos escolares profesionales o eventos especiales designados pueden tener cargos suplementarios que se comunicarán con anticipación."
+          }
+        ]
+      },
+      "policies": {
+        "title": "Políticas Generales",
+        "items": [
+          {
+            "subtitle": "Política de Enfermedad",
+            "content": [
+              "Los niños con fiebre superior a 100°F no pueden asistir",
+              "Deben permanecer en casa por 24 horas después de que la fiebre desaparezca sin medicamentos",
+              "Notificar al centro sobre enfermedades contagiosas",
+              "El personal puede solicitar que recoja a un niño enfermo en cualquier momento"
+            ]
+          },
+          {
+            "subtitle": "Medicamentos",
+            "content": "No se administrarán medicamentos a menos que una persona autorizada esté presente."
+          },
+          {
+            "subtitle": "Disciplina",
+            "content": "Utilizamos técnicas de disciplina positiva. No se permite ningún tipo de castigo físico o verbal. Trabajamos con los padres para abordar problemas de comportamiento."
+          },
+          {
+            "subtitle": "Seguridad",
+            "content": [
+              "Simulacros regulares de incendio y emergencia",
+              "Todas las visitas deben registrarse en la recepción",
+              "Sistema de cámaras de seguridad en todas las áreas",
+              "Personal capacitado en primeros auxilios y CPR"
+            ]
+          }
+        ]
+      }
+    },
+    "download": {
+      "title": "Manual Completo para Padres",
+      "description": "Para información más detallada sobre nuestras políticas, procedimientos y servicios, descarga nuestro manual completo.",
+      "button": "Descargar Manual Completo (PDF)",
+      "fileInfo": "ABC KIDZ Facility Parents Handbook - PDF"
+    },
+    "contactNote": "¿Tienes preguntas sobre nuestros términos y políticas? No dudes en contactarnos al (813) 512-2511 o visítanos en persona."
+  },
+  "blogPage": {
+    "meta": {
+      "title": "Blog - ABC Kidz | Consejos y Recursos para Padres",
+      "description": "Lee nuestros últimos artículos sobre desarrollo infantil, consejos para padres, actividades educativas y más del equipo de ABC Kidz.",
+      "keywords": "blog para padres, consejos desarrollo infantil, actividades guardería, educación preescolar, blog cuidado infantil Tampa"
+    },
+    "hero": {
+      "badge": "Nuestro Blog",
+      "title": "Consejos y Recursos para Padres",
+      "subtitle": "Descubre artículos útiles sobre desarrollo infantil, actividades divertidas y consejos prácticos para padres."
+    },
+    "noPosts": "Aún no hay publicaciones en el blog. ¡Vuelve pronto!",
+    "readMore": "Leer más",
+    "backToBlog": "Volver al Blog",
+    "writtenBy": "Escrito por"
+  },
+  "infantsPage": {
+    "meta": {
+      "title": "Guardería para Bebés Tampa FL | Cuidado 0-12 Meses | ABC Kidz",
+      "description": "La mejor guardería para bebés en Tampa. Cuidado de bebés de 0-12 meses con personal experimentado, atención individualizada y ambiente seguro. ¡Agenda tu visita!",
+      "keywords": "guardería bebés Tampa, cuidado bebés Tampa FL, guardería recién nacidos, cuidado infantil bebés Tampa, daycare bebés Tampa, guardería cerca de mí"
+    },
+    "hero": {
+      "ageBadge": "0-12 Meses",
+      "title": "Bebés",
+      "tagline": "Cuidado amoroso. Los bebés florecen con nosotros.",
+      "description": "Damos la bienvenida a bebés de 0 a 12 meses, nuestro programa proporciona un refugio seguro para sus seres queridos más pequeños."
+    },
+    "content": {
+      "mainTitle": "Donde Cada Bebé Se Siente Querido",
+      "paragraph1": "Basados en el cuidado individualizado, nuestros cuidadores experimentados priorizan las necesidades únicas de cada niño, asegurando que se sientan queridos y apoyados desde el principio.",
+      "paragraph2": "A través de la exploración sensorial, los bebés interactúan con su entorno, sentando las bases para el crecimiento cognitivo y emocional.",
+      "secondaryTitle": "Nutriendo el Desarrollo Desde el Primer Día",
+      "paragraph3": "Las interacciones gentiles de nuestro equipo y el ambiente acogedor fomentan el desarrollo de conexiones sociales y un sentido de confianza.",
+      "paragraph4": "Entendemos que estos meses formativos son cruciales, y nuestro programa está diseñado para proporcionar el máximo cuidado, atención y estimulación para ayudar a los bebés a florecer durante sus primeras etapas de vida."
+    },
+    "highlights": {
+      "item1": "Cuidado individualizado para cada bebé",
+      "item2": "Ambiente seguro y acogedor",
+      "item3": "Personal experimentado y cariñoso"
+    },
+    "features": {
+      "individualizedCare": {
+        "title": "Cuidado Individualizado",
+        "description": "Cada bebé recibe atención personalizada adaptada a sus necesidades únicas y etapa de desarrollo."
+      },
+      "sensoryExploration": {
+        "title": "Exploración Sensorial",
+        "description": "Actividades estimulantes que promueven el crecimiento cognitivo y emocional a través del descubrimiento."
+      },
+      "gentleInteractions": {
+        "title": "Interacciones Gentiles",
+        "description": "Caricias suaves y voces dulces que construyen confianza y conexiones sociales."
+      },
+      "secureEnvironment": {
+        "title": "Ambiente Seguro",
+        "description": "Un refugio seguro diseñado para ayudar a tu pequeño a prosperar y florecer."
+      }
+    },
+    "trust": {
+      "title": "Licenciado y Certificado",
+      "subtitle": "Programa de cuidado infantil aprobado por el estado"
+    }
+  },
+  "toddlersPage": {
+    "meta": {
+      "title": "Guardería Niños Pequeños Tampa FL | Edades 1-2 Años | ABC Kidz",
+      "description": "La mejor guardería para niños pequeños en Tampa. Programa para edades 1-2 años con aprendizaje práctico, desarrollo social y personal bilingüe. ¡Agenda tu visita!",
+      "keywords": "guardería niños pequeños Tampa, programa toddlers Tampa FL, guardería 1 año Tampa, guardería 2 años Tampa, educación temprana Tampa, cuidado infantil"
+    },
+    "hero": {
+      "ageBadge": "1-2 Años",
+      "title": "Niños Pequeños",
+      "tagline": "Descubre, juega, crece.",
+      "description": "Guiados por la creencia de que el aprendizaje es un viaje emocionante, fomentamos la exploración a través de actividades prácticas que cautivan su imaginación."
+    },
+    "content": {
+      "mainTitle": "Un Mundo de Descubrimientos les Espera",
+      "paragraph1": "A medida que se sumergen en un mundo de colores, formas y juego, estas experiencias se convierten en los bloques de construcción para el desarrollo cognitivo.",
+      "paragraph2": "Al interactuar con otros niños pequeños, aprenden a compartir, comunicarse y desarrollar habilidades sociales esenciales en un entorno amigable.",
+      "secondaryTitle": "Celebrando Cada Descubrimiento",
+      "paragraph3": "Nuestros educadores dedicados crean un ambiente donde cada descubrimiento es celebrado, fomentando su entusiasmo por aprender.",
+      "paragraph4": "Despertamos un amor de por vida por la exploración al nutrir la curiosidad y proporcionar actividades atractivas y apropiadas para su edad que ayudan a los niños a prosperar."
+    },
+    "highlights": {
+      "item1": "Actividades de aprendizaje práctico",
+      "item2": "Desarrollo de habilidades sociales",
+      "item3": "Ambiente seguro y estimulante"
+    },
+    "features": {
+      "handsOnLearning": {
+        "title": "Aprendizaje Práctico",
+        "description": "Actividades atractivas que cautivan la imaginación y fomentan la exploración activa."
+      },
+      "cognitiveDevelopment": {
+        "title": "Desarrollo Cognitivo",
+        "description": "Colores, formas y juego se convierten en bloques de construcción para mentes en crecimiento."
+      },
+      "socialSkills": {
+        "title": "Habilidades Sociales",
+        "description": "Aprenden a compartir, comunicarse y construir amistades con sus compañeros."
+      },
+      "dedicatedEducators": {
+        "title": "Educadores Dedicados",
+        "description": "Maestros apasionados que celebran cada descubrimiento y logro."
+      }
+    },
+    "trust": {
+      "title": "Currículo Basado en Juego",
+      "subtitle": "Aprendizaje apropiado para el desarrollo"
+    }
+  },
+  "prekPage": {
+    "meta": {
+      "title": "Pre-K Preescolar Tampa FL | Edades 3-4 | Preparación Kindergarten | ABC Kidz",
+      "description": "El mejor programa Pre-K en Tampa para niños de 3-4 años. Preparación para kindergarten, lectoescritura, matemáticas, desarrollo social. Programa bilingüe. ¡Inscríbete hoy!",
+      "keywords": "Pre-K Tampa FL, preescolar Tampa, preescolar cerca de mí Tampa, preparación kindergarten Tampa, preescolar 3 años Tampa, preescolar 4 años Tampa, mejor preescolar Tampa"
+    },
+    "hero": {
+      "ageBadge": "3-4 Años",
+      "title": "Pre-K",
+      "tagline": "Inicio Seguro al Kindergarten.",
+      "description": "Nuestro programa Pre-K, diseñado para niños de 3 a 4 años, establece una base sólida para una transición exitosa al kindergarten."
+    },
+    "content": {
+      "mainTitle": "Construyendo Bases Sólidas",
+      "paragraph1": "A través del aprendizaje estructurado, introducimos conceptos esenciales incluyendo letras, números, lectoescritura y habilidades matemáticas fundamentales.",
+      "paragraph2": "Nuestro currículo fomenta el crecimiento social al alentar el juego cooperativo y proyectos colaborativos, perfeccionando su capacidad para comunicarse y trabajar juntos de manera efectiva.",
+      "secondaryTitle": "Listos para el Éxito en Kindergarten",
+      "paragraph3": "La coordinación motora fina se desarrolla a través de actividades que promueven la preparación para la escritura, la coordinación ojo-mano y la expresión creativa.",
+      "paragraph4": "En esta edad crucial, creamos un ambiente estimulante donde los niños se desarrollan no solo académicamente, sino también social y emocionalmente, asegurando que comiencen su camino educativo con confianza."
+    },
+    "highlights": {
+      "item1": "Letras, números y lectoescritura",
+      "item2": "Juego cooperativo y crecimiento social",
+      "item3": "Preparación para kindergarten"
+    },
+    "features": {
+      "literacy": {
+        "title": "Lectoescritura",
+        "description": "Introducción a letras, fonética y habilidades de lectura temprana que despiertan el amor por los libros."
+      },
+      "math": {
+        "title": "Bases Matemáticas",
+        "description": "Números, conteo, formas y conceptos matemáticos básicos a través de actividades prácticas y divertidas."
+      },
+      "socialGrowth": {
+        "title": "Crecimiento Social",
+        "description": "Juego cooperativo y proyectos colaborativos que enseñan comunicación y trabajo en equipo."
+      },
+      "motorSkills": {
+        "title": "Motricidad Fina",
+        "description": "Preparación para escritura, coordinación ojo-mano y actividades de expresión creativa."
+      }
+    },
+    "trust": {
+      "title": "Listos para Kindergarten",
+      "subtitle": "Programa integral de preparación escolar"
+    }
+  },
+  "vpkPage": {
+    "meta": {
+      "title": "Programa VPK GRATIS Tampa FL | Pre-K Voluntario 4-5 Años | ABC Kidz",
+      "description": "¡Inscríbete en el programa VPK GRATIS de Tampa en ABC Kidz! Pre-Kindergarten financiado por Florida para niños 4-5 años. Lectoescritura, matemáticas. ¡Proveedor VPK aprobado!",
+      "keywords": "VPK Tampa FL, VPK gratis Tampa, Pre-Kindergarten Voluntario Tampa, programa VPK cerca de mí, preescolar gratis Tampa, proveedor VPK Tampa, preescolar gratuito Florida"
+    },
+    "hero": {
+      "ageBadge": "4-5 Años",
+      "title": "VPK",
+      "tagline": "Construyendo Futuros Brillantes Juntos.",
+      "description": "VPK (Pre-Kindergarten Voluntario) prepara el escenario para una transición exitosa al kindergarten, respaldado por apoyo estatal.",
+      "stateFunded": "Programa Financiado por el Estado"
+    },
+    "content": {
+      "mainTitle": "Excelencia en Educación Temprana",
+      "paragraph1": "Estamos dedicados a nutrir el crecimiento del lenguaje y cognitivo a través de experiencias interactivas que cautivan las mentes jóvenes.",
+      "paragraph2": "A medida que exploran conceptos matemáticos, su comprensión se profundiza y se desarrollan habilidades de resolución de problemas.",
+      "secondaryTitle": "Listos para el Éxito en Kindergarten",
+      "paragraph3": "Nuestro currículo atractivo pone especial énfasis en las habilidades de pre-lectura y pre-escritura, encendiendo su camino hacia la alfabetización.",
+      "paragraph4": "A través de aventuras de aprendizaje práctico, los niños no solo dominan las bases académicas esenciales, sino que también cultivan un amor por la exploración y el descubrimiento. Con este programa, los niños ganan la confianza y preparación que necesitan para comenzar su camino educativo con entusiasmo."
+    },
+    "highlights": {
+      "item1": "Programa VPK financiado por el estado",
+      "item2": "Enfoque en pre-lectura y pre-escritura",
+      "item3": "Currículo listo para kindergarten"
+    },
+    "features": {
+      "language": {
+        "title": "Desarrollo del Lenguaje",
+        "description": "Experiencias interactivas que nutren la comunicación y el desarrollo del vocabulario."
+      },
+      "math": {
+        "title": "Exploración Matemática",
+        "description": "Profundizando la comprensión de conceptos matemáticos y desarrollando habilidades de resolución de problemas."
+      },
+      "literacy": {
+        "title": "Habilidades de Pre-Lectura",
+        "description": "Énfasis especial en pre-lectura y pre-escritura para encender su camino hacia la alfabetización."
+      },
+      "confidence": {
+        "title": "Confianza Escolar",
+        "description": "Construyendo la preparación y el entusiasmo necesarios para comenzar el kindergarten con confianza."
+      }
+    },
+    "trust": {
+      "title": "Proveedor de VPK Aprobado por el Estado",
+      "subtitle": "Programa gratuito para familias de Florida"
+    },
+    "newsFeature": {
+      "badge": "Destacado En",
+      "headline": "Coalición de Aprendizaje Temprano recibe fondos para programa de verano",
+      "description": "ABC Kidz Preschool destacado como programa ejemplar que ayuda a los niños a prepararse para kindergarten a través de la iniciativa del Programa Summer Boost.",
+      "quote": "Es el primer paso para construir una base sólida, no solo para kindergarten sino para el aprendizaje de por vida.",
+      "attribution": "— Miryam Huby, Maestra Principal de VPK en ABC Kidz Preschool",
+      "cta": "Leer Cobertura Completa",
+      "publishedDate": "Publicado: 15 de Julio, 2025"
+    }
+  },
+  "afterSchoolPage": {
+    "meta": {
+      "title": "After School Tampa FL | Cuidado Después de Escuela 5-12 Años | ABC Kidz",
+      "description": "Cuidado after school confiable en Tampa para niños 5-12 años. Ayuda con tareas, actividades de enriquecimiento, campamentos de verano. ¡Ambiente seguro y divertido!",
+      "keywords": "after school Tampa, programa después de escuela Tampa FL, campamento verano Tampa, cuidado edad escolar Tampa, antes y después de escuela, campamento niños Tampa"
+    },
+    "hero": {
+      "ageBadge": "5-12 Años",
+      "title": "After School",
+      "tagline": "¿Salieron de la escuela? ¡Nosotros estamos aquí!",
+      "description": "El programa de Edad Escolar es para niños de 5 a 12 años que, por cualquier razón, no asisten a la escuela en cualquier día del año.",
+      "flexibleCare": "Cuidado Flexible Todo el Año"
+    },
+    "content": {
+      "mainTitle": "Cuidado Enriquecedor Más Allá del Horario Escolar",
+      "paragraph1": "Ofrecemos cuidado confiable y enriquecedor que se extiende más allá de los períodos académicos, asegurando que los niños tengan un ambiente seguro y estimulante durante todo el año.",
+      "paragraph2": "Con una variedad de actividades cuidadosamente seleccionadas y atractivas, fomentamos la interacción social y brindamos oportunidades para el aprendizaje, la creatividad y la diversión.",
+      "secondaryTitle": "Manteniendo a los Niños Activos y Conectados",
+      "paragraph3": "Desde proyectos interactivos hasta actividades grupales, nuestro programa mantiene a los niños activamente involucrados y socialmente conectados.",
+      "paragraph4": "Puedes confiar en que el tiempo de tu hijo con nosotros será tanto agradable como significativo, fomentando el crecimiento y experiencias positivas."
+    },
+    "highlights": {
+      "item1": "Cuidado confiable todo el año",
+      "item2": "Actividades y proyectos atractivos",
+      "item3": "Conexión social y diversión"
+    },
+    "features": {
+      "yearRound": {
+        "title": "Cuidado Todo el Año",
+        "description": "Cuidado confiable que se extiende más allá del horario escolar, incluyendo días festivos y vacaciones de verano."
+      },
+      "activities": {
+        "title": "Actividades Atractivas",
+        "description": "Proyectos cuidadosamente seleccionados que fomentan la creatividad, el aprendizaje y la diversión."
+      },
+      "social": {
+        "title": "Conexión Social",
+        "description": "Actividades grupales que mantienen a los niños activamente involucrados y socialmente conectados."
+      },
+      "meaningful": {
+        "title": "Tiempo Significativo",
+        "description": "Experiencias agradables que fomentan el crecimiento y desarrollo positivo."
+      }
+    },
+    "trust": {
+      "title": "Horarios Flexibles",
+      "subtitle": "Disponible para vacaciones escolares y días festivos"
+    }
+  }
+}

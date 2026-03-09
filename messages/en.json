@@ -1,0 +1,928 @@
+{
+  "navbar": {
+    "programs": "Programs",
+    "blog": "Blog",
+    "contact": "Contact",
+    "about": "About Us",
+    "terms": "Terms"
+  },
+  "common": {
+    "previousProgram": "Previous Program",
+    "nextProgram": "Next Program"
+  },
+  "language": {
+    "en": "English",
+    "es": "Spanish",
+    "switch": "Switch language"
+  },
+  "hero": {
+    "title": "Where Learning",
+    "subtitle": "Is Fun!",
+    "description": "A nurturing environment that inspires curiosity and builds lifelong skills. At ABC Kidz we create a safe, fun and educational environment where your child will develop their full potential.",
+    "cta": {
+      "primary": "Schedule a Visit",
+      "secondary": "View Programs"
+    },
+    "trust": {
+      "primary": "Join our family",
+      "secondary": "More than 500 families trust us"
+    },
+    "scroll": "Discover more"
+  },
+  "trustSection": {
+    "title": "Trusted by families",
+    "subtitle": "What parents who trust us day by day have to say",
+    "googleRating": {
+      "label": "Google Rating",
+      "verified": "Verified Reviews",
+      "reviews": "reviews"
+    },
+    "familiesTrust": "families have trusted us with the care and education of their children",
+    "testimonials": {
+      "title": "What our parents say on Google",
+      "role": "Verified Google Review",
+      "items": [
+        {
+          "name": "Aidelyn Brage",
+          "text": "I'm so happy with the care my child receives at ABC Kidz Preschool Daycare! The staff is kind, patient, and always professional. The place is clean, safe, and very well organized. Highly recommended!",
+          "rating": 5
+        },
+        {
+          "name": "Jessica Summers",
+          "text": "ABC Kidz is a more than great daycare/school for kids to attend they are very friendly professional and caring for our little ones my son that went into kindergarten wants to come back here everyday with his sisters",
+          "rating": 5
+        },
+        {
+          "name": "Mariana Garcia",
+          "text": "One of the best experiences for our child and us as parents! The attention, affection, and quality of care are exceptional ✨ We will miss them so much, so grateful for the work they did with my little one ✨",
+          "rating": 5
+        },
+        {
+          "name": "Maria Parra",
+          "text": "Excellent service, the teachers are lovely. I go to work knowing my baby is well cared for and learning 🥰",
+          "rating": 5
+        }
+      ]
+    }
+  },
+  "programsSection": {
+    "title": "Our Programs",
+    "subtitle": "Each program is carefully planned to turn everyday experiences into meaningful learning opportunities",
+    "cta": "View all programs",
+    "learnMore": "Learn More",
+    "ageLabels": {
+      "months": "months",
+      "years": "years"
+    },
+    "programs": {
+      "infants": {
+        "name": "Infants",
+        "tagline": "Loving care. Babies bloom with us.",
+        "description": "Welcoming babies aged 0 to 12 months, our program provides a safe haven for your littlest loved ones. Grounded in individualized care, our experienced caregivers prioritize each child's unique needs, ensuring they feel cherished and supported from the start. Through sensory exploration, infants engage with their surroundings, laying the groundwork for cognitive and emotional growth.",
+        "highlights": [
+          "Individualized care tailored to each child's unique needs",
+          "Sensory exploration for cognitive and emotional growth",
+          "Gentle interactions encouraging social connections and trust",
+          "Nurturing environment designed for crucial formative months"
+        ]
+      },
+      "toddlers": {
+        "name": "Toddlers",
+        "tagline": "Discover, play, grow. Learning adventure.",
+        "description": "Guided by the belief that learning is an exciting journey, we foster exploration through hands-on activities that captivate their imagination. As they immerse themselves in a world of colors, shapes, and play, these experiences become the building blocks for cognitive development. By interacting with fellow toddlers, they learn to share, communicate, and develop essential social skills in a friendly environment.",
+        "highlights": [
+          "Hands-on activities that captivate their imagination",
+          "Exploring colors, shapes, and play for cognitive development",
+          "Learn to share and communicate in a friendly setting",
+          "Every discovery is celebrated, sparking lifelong love for exploration"
+        ]
+      },
+      "prek": {
+        "name": "Pre-K",
+        "tagline": "Confident Kindergarten Start: Enroll in Pre-K.",
+        "description": "Our Pre-K program, tailored for children aged 3 to 4 years, lays a strong foundation for a successful transition to kindergarten. Through structured learning, we introduce essential concepts including letters, numbers, literacy, and foundational math skills. Our curriculum fosters social growth by encouraging cooperative play and collaborative projects, honing their ability to communicate and work together effectively.",
+        "highlights": [
+          "Strong foundation in letters, numbers, literacy, and math skills",
+          "Cooperative play and collaborative projects for social growth",
+          "Fine motor coordination for writing readiness and creative expression",
+          "Academic, social, and emotional development with confidence"
+        ]
+      },
+      "vpk": {
+        "name": "VPK",
+        "tagline": "VPK Excellence: Building Bright Futures Together.",
+        "description": "VPK (Voluntary Prekindergarten) sets the stage for a successful transition to kindergarten, backed by state support. We are dedicated to nurturing language and cognitive growth through interactive experiences that captivate young minds. As they explore mathematical concepts, their understanding deepens, and problem-solving skills develop.",
+        "highlights": [
+          "State-backed program for successful kindergarten transition",
+          "Language and cognitive growth through interactive experiences",
+          "Special emphasis on pre-reading and pre-writing skills",
+          "Cultivate love for exploration and confidence for educational path"
+        ]
+      },
+      "after_school": {
+        "name": "After School",
+        "tagline": "School's out? We're In.",
+        "description": "The School's Age program is for children aged 5 to 12 who, for whatever reason, are not attending school on any given day during the year. We offer dependable and enriching care that extends beyond academic periods, ensuring children have a safe and stimulating environment year-round.",
+        "highlights": [
+          "Dependable and enriching care beyond academic periods",
+          "Thoughtfully curated and engaging activities",
+          "Interactive projects and group activities",
+          "Fostering social engagement, learning, creativity, and fun"
+        ]
+      }
+    }
+  },
+  "ctaSection": {
+    "badge": "Free Tour",
+    "title": "Ready for your child to be part of our family?",
+    "subtitle": "Fill out the form and schedule a free tour to visit our facilities and meet our team.",
+    "actionText": "Choose how you'd like to connect with us",
+    "or": "or",
+    "features": {
+      "education": "Quality Education",
+      "care": "Personalized Care",
+      "community": "Family Community"
+    },
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "date": "Preferred date",
+      "submit": "Schedule a Visit",
+      "sending": "Sending..."
+    },
+    "whatsapp": {
+      "button": "Chat on WhatsApp",
+      "subtitle": "Quick response • Available now"
+    },
+    "disclaimer": "We'll contact you by email to confirm your visit.",
+    "trustIndicators": {
+      "noCommitment": "No commitment",
+      "response24h": "24-hour response",
+      "free": "100% free"
+    },
+    "socialMedia": {
+      "title": "Discover Our Daily Moments!",
+      "subtitle": "Visit our social media and explore the activities, projects, and moments your child will enjoy."
+    }
+  },
+  "locationSection": {
+    "title": "Visit Us",
+    "subtitle": "We're located in the heart of Tampa. Come see our facilities.",
+    "address": {
+      "label": "Address"
+    },
+    "phone": {
+      "label": "Phone"
+    },
+    "email": {
+      "label": "Email"
+    },
+    "scheduleTitle": "Business Hours",
+    "schedule": {
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed"
+    },
+    "form": {
+      "title": "Send us a message",
+      "subtitle": "Have any questions? We're here to help.",
+      "name": "Full name",
+      "namePlaceholder": "John Doe",
+      "email": "Email address",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+1 (813) 123-4567",
+      "message": "Message",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "submit": "Send message",
+      "sent": "Message sent!",
+      "disclaimer": "We'll respond to your message within 24 hours."
+    }
+  },
+  "footer": {
+    "description": "Creating a safe, fun, and educational environment where every child develops their full potential.",
+    "followUs": "Follow Us",
+    "quickLinks": "Quick Links",
+    "ourPrograms": "Our Programs",
+    "contactInfo": "Contact Information",
+    "links": {
+      "about": "About Us",
+      "programs": "Programs",
+      "admissions": "Admissions",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "programs": {
+      "infants": "Infants (0-12 months)",
+      "toddlers": "Toddlers (1-2 years)",
+      "prek": "Pre-K (3-4 years)",
+      "vpk": "VPK (4-5 years)",
+      "after_school": "After School (5-12 years)"
+    },
+    "schedule": {
+      "weekdays": "Mon - Fri: 7:00 AM - 6:00 PM",
+      "weekend": "Sat - Sun: Closed"
+    },
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "accessibility": "Accessibility"
+  },
+  "contactPage": {
+    "meta": {
+      "title": "Contact ABC Kidz Daycare Tampa | Schedule a Tour | (813) 512-2511",
+      "description": "Contact ABC Kidz daycare in Tampa FL. Schedule a free tour, ask about enrollment, or get info on our childcare programs. Call (813) 512-2511 or fill out our form!",
+      "keywords": "contact ABC Kidz Tampa, daycare tour Tampa, schedule daycare visit Tampa FL, daycare enrollment Tampa, childcare information Tampa, call daycare Tampa"
+    },
+    "hero": {
+      "badge": "We're here to help",
+      "title": "Let's Connect",
+      "subtitle": "Have questions about our programs? We're here to help you find the perfect fit for your child.",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Hours",
+      "hoursValue": "Mon - Fri 7AM - 6PM",
+      "address": "Visit Us"
+    },
+    "form": {
+      "badge": "Get in Touch",
+      "title": "Send us a Message",
+      "subtitle": "Fill out the form and we'll get back to you as soon as possible.",
+      "name": "Full name",
+      "namePlaceholder": "John Doe",
+      "email": "Email address",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone number",
+      "phonePlaceholder": "+1 (813) 123-4567",
+      "subject": "Subject",
+      "subjectPlaceholder": "Select a subject",
+      "subjects": {
+        "general": "General inquiry",
+        "tour": "Schedule a tour",
+        "enrollment": "Enrollment information",
+        "programs": "Program questions",
+        "other": "Other"
+      },
+      "message": "Your message",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "sent": "Message Sent!",
+      "disclaimer": "Your message will open in your email app. We'll respond within 24 hours."
+    },
+    "info": {
+      "contactDetails": {
+        "title": "Get in Touch"
+      },
+      "address": {
+        "title": "Our Address",
+        "directions": "Get Directions"
+      },
+      "phone": {
+        "title": "Call Us",
+        "call": "Call Now"
+      },
+      "email": {
+        "title": "Email Us",
+        "send": "Send Email"
+      },
+      "schedule": {
+        "title": "Business Hours",
+        "subtitle": "We're open Monday through Friday",
+        "monday": "Monday",
+        "tuesday": "Tuesday",
+        "wednesday": "Wednesday",
+        "thursday": "Thursday",
+        "friday": "Friday",
+        "saturday": "Saturday",
+        "sunday": "Sunday",
+        "closed": "Closed"
+      },
+      "social": {
+        "title": "Follow Us on Social Media",
+        "subtitle": "Stay connected and see what's happening at ABC Kidz!"
+      },
+      "whatsapp": {
+        "badge": "Fastest Response",
+        "title": "Solve Your Questions!",
+        "subtitle": "Get instant answers to your questions. We typically respond within minutes!",
+        "button": "Start Chat"
+      },
+      "responseTime": {
+        "title": "Quick Response Guaranteed",
+        "subtitle": "We're committed to responding to all inquiries within 24 hours."
+      }
+    },
+    "map": {
+      "title": "Visit Our Center",
+      "subtitle": "1745 W Fletcher Ave, Tampa, FL 33612",
+      "directions": "Get Directions on Google Maps"
+    }
+  },
+  "programsPage": {
+    "meta": {
+      "title": "Daycare Programs Tampa FL | Infant, Toddler, Pre-K, VPK & After School",
+      "description": "Explore ABC Kidz' childcare programs in Tampa. Infant care (0-12mo), toddlers (1-2yr), Pre-K (3-4yr), FREE VPK, and after-school (5-12yr). Bilingual staff. Schedule a tour!",
+      "keywords": "daycare programs Tampa, infant care Tampa FL, toddler program Tampa, Pre-K Tampa, VPK Tampa FL, after school Tampa, bilingual daycare, childcare Tampa"
+    },
+    "hero": {
+      "badge": "Excellence Programs",
+      "title": "Programs Designed for Your Child's Success",
+      "subtitle": "From the first months to kindergarten preparation, we offer specialized programs that nurture the comprehensive development of each child.",
+      "features": {
+        "love": "Loving Care",
+        "loveDesc": "Personalized & nurturing attention",
+        "safety": "Safe Environment",
+        "safetyDesc": "Secure & stimulating spaces",
+        "play": "Play-Based Learning",
+        "playDesc": "Growth through fun & creativity"
+      }
+    },
+    "benefits": {
+      "title": "Why choose our programs?",
+      "subtitle": "Key benefits that make the difference in your child's development",
+      "items": {
+        "individualizedCare": {
+          "title": "Individualized Care",
+          "description": "Personalized attention that prioritizes each child's unique needs, ensuring they feel cherished and supported."
+        },
+        "sensoryExploration": {
+          "title": "Sensory Exploration",
+          "description": "Sensory activities that allow children to engage with their surroundings, laying the foundation for cognitive and emotional growth."
+        },
+        "cognitiveGrowth": {
+          "title": "Cognitive Development",
+          "description": "Hands-on experiences that become building blocks for intellectual development and problem-solving skills."
+        },
+        "socialSkills": {
+          "title": "Social Skills",
+          "description": "Learning to share, communicate, and work together in a friendly environment that celebrates every discovery."
+        },
+        "foundationalLearning": {
+          "title": "Foundational Learning",
+          "description": "Structured introduction to letters, numbers, literacy, and essential math skills for school success."
+        },
+        "collaborativePlay": {
+          "title": "Collaborative Play",
+          "description": "Collaborative projects and cooperative play that develop fine motor coordination and creative expression."
+        }
+      }
+    },
+    "cta": {
+      "title": "Want to meet us in person?",
+      "subtitle": "Schedule a free tour and discover why Tampa families trust us.",
+      "scheduleVisit": "Schedule a Visit",
+      "whatsapp": "Chat on WhatsApp",
+      "whatsappSubtitle": "Quick response • Available now"
+    }
+  },
+  "aboutPage": {
+    "meta": {
+      "title": "About ABC Kidz Daycare Tampa | Trusted Bilingual Childcare Since 2020",
+      "description": "Learn about ABC Kidz - Tampa's trusted bilingual daycare center. Meet our experienced team, discover our mission, values, and why 500+ families choose us. Schedule a tour!",
+      "keywords": "about ABC Kidz Tampa, Tampa daycare center, bilingual childcare Tampa, trusted daycare Tampa FL, early education Tampa, best daycare Tampa, childcare center near me"
+    },
+    "hero": {
+      "badge": "Welcome to ABC Kidz Preschool",
+      "title": "A Caring Team",
+      "titleHighlight": "Focused on Early Development",
+      "subtitle": "With a thoughtful approach to learning and care, we support families by providing a safe and enriching environment for every child.",
+      "features": {
+        "feature1": "Personalized attention for every child",
+        "feature2": "Safe and stimulating learning environment",
+        "feature3": "Passionate and dedicated educators"
+      },
+      "scroll": "Discover Our Story"
+    },
+    "story": {
+      "label": "Our Journey",
+      "title": "A Story Written with Love",
+      "subtitle": "Built on passion and dedication - discover the heart behind ABC Kidz.",
+      "imageCaption": "Where memories are made",
+      "imageCaptionSub": "Our loving team with happy children",
+      "freshStart": "New Beginning",
+      "freshStartSub": "Fresh passion, endless care",
+      "paragraph1": "ABC Kidz was born from a simple yet powerful dream: to create a nurturing space where every child could discover their unique potential while feeling completely loved and safe.",
+      "paragraph2": "Our founder, with extensive experience in early childhood education, envisioned more than just a daycare. She dreamed of a place where children would be educated with excellence while receiving the warmth and attention of a second family.",
+      "paragraph3": "We are committed to becoming Tampa's premier bilingual child care center, dedicated to families who share our belief that every child deserves the very best start in life.",
+      "pillarsTitle": "Our Foundation",
+      "pillars": {
+        "love": {
+          "title": "Unconditional Love",
+          "description": "Every child is welcomed with open arms and genuine affection, creating a warm environment where they feel valued and cherished."
+        },
+        "safety": {
+          "title": "Complete Safety",
+          "description": "State-of-the-art facilities and trained staff ensure your child is always protected in a secure, caring environment."
+        },
+        "education": {
+          "title": "Quality Education",
+          "description": "Our excellence-driven curriculum adapts to each child's developmental stage, fostering curiosity and a love for learning."
+        },
+        "community": {
+          "title": "Family Community",
+          "description": "We build strong partnerships with families, working together to support every child's growth and success."
+        }
+      },
+      "mission": {
+        "title": "Our Mission",
+        "text": "ABC Kidz Preschool, Inc, is a child development center dedicated to raising a generation of children to achieve their God-given potential and destiny."
+      }
+    },
+    "mission": {
+      "badge": "Our Purpose",
+      "title": "Our Mission",
+      "description": "ABC Kidz Preschool, Inc, is a child development center dedicated to raising a generation of children to achieve their God-given potential and destiny.",
+      "highlights": [
+        "Nurturing each child's unique gifts and talents",
+        "Creating a foundation for lifelong learning",
+        "Building strong community partnerships with families",
+        "Developing confident, compassionate, and capable children"
+      ]
+    },
+    "vision": {
+      "badge": "Where We're Headed",
+      "title": "Our Vision",
+      "description": "Our vision is to become the most trustworthy and enriching childcare center in the community, where every child feels safe, valued, and motivated to explore the world with curiosity and joy. We aspire to be a space where families find comprehensive support, and where children develop their cognitive, emotional, and social skills through meaningful experiences and active learning.",
+      "highlights": [
+        "A trusted sanctuary for children and families in our community",
+        "A space where every child feels valued and empowered",
+        "An environment that nurtures curiosity, joy, and growth",
+        "A partner in families' most important journey - raising their children"
+      ]
+    },
+    "philosophy": {
+      "badge": "How We Work",
+      "title": "Our Philosophy",
+      "description": "Our philosophy is based on the conviction that learning must be a joyful, meaningful experience full of discoveries. We firmly believe that working with children is a privilege that requires sensitivity, preparation, and passion. That's why we transform every moment into an opportunity for growth, integrating play, creativity, and curiosity as the main drivers of childhood development.",
+      "highlights": [
+        "Learning is joyful, meaningful, and discovery-filled",
+        "Every moment is an opportunity for growth and development",
+        "Play, creativity, and curiosity drive childhood development",
+        "Working with children is a sacred privilege requiring passion and preparation"
+      ]
+    },
+    "values": {
+      "badge": "Our Core Values",
+      "title": "Eight Values That Guide Us",
+      "subtitle": "These principles define who we are and how we serve every child and family",
+      "featuredLabel": "Safety & Well-being",
+      "featuredTitle": "Safety and Well-being First",
+      "featuredDescription": "We guarantee a physically and emotionally safe environment where every child can grow with confidence, protected and cared for at all times.",
+      "items": {
+        "safety": {
+          "title": "Safety and Well-being",
+          "description": "We guarantee a physically and emotionally safe environment where every child can grow with confidence, protected and cared for at all times."
+        },
+        "love": {
+          "title": "Love and Respect",
+          "description": "We promote relationships based on affection, empathy and respect towards every child, family and staff member."
+        },
+        "learning": {
+          "title": "Active Learning",
+          "description": "We encourage exploration, creativity and discovery through practical experiences that stimulate the child's natural curiosity."
+        },
+        "diversity": {
+          "title": "Diversity and Inclusion",
+          "description": "We value and celebrate cultural, linguistic and personal differences. Every child is welcome and treated with equity."
+        },
+        "communication": {
+          "title": "Open Communication with Families",
+          "description": "We maintain constant, transparent and collaborative dialogue with parents to ensure each child's well-being and development."
+        },
+        "development": {
+          "title": "Integral Development",
+          "description": "We support cognitive, emotional, social and physical growth, recognizing that each developmental stage is unique and important."
+        },
+        "professionalism": {
+          "title": "Professionalism and Ethics",
+          "description": "Our team acts with responsibility, commitment and vocation, guaranteeing high-quality service."
+        },
+        "play": {
+          "title": "Play with Purpose",
+          "description": "We believe in the value of play as a fundamental tool for learning, expression and socialization."
+        }
+      }
+    },
+    "team": {
+      "label": "Meet Our Team",
+      "title": "The Heart of ABC Kidz",
+      "subtitle": "Passionate educators dedicated to nurturing your child's potential every single day",
+      "introTitle": "Making a Difference, One Child at a Time",
+      "introParagraph1": "Our team isn't just staff - they're family. Every educator at ABC Kidz has been carefully chosen for their genuine passion for children and commitment to excellence in early education.",
+      "introParagraph2": "United by our love for teaching and care, we create an environment where children feel safe to explore, learn, and grow into confident individuals.",
+      "qualitiesTitle": "What Makes Us Special",
+      "qualities": [
+        "Genuine passion for child development and wellbeing",
+        "Small class sizes ensuring personalized attention for every child",
+        "Dedicated to making every child feel valued and heard",
+        "Safe and nurturing environment where children thrive"
+      ],
+      "closingStatement": "For us, your child isn't just a student - they become part of our ABC Kidz family."
+    },
+    "gallery": {
+      "badge": "Life at ABC Kidz",
+      "title": "Moments That Matter",
+      "subtitle": "Glimpses of joy, learning, and growth from our daily adventures",
+      "filters": {
+        "all": "All Photos",
+        "kids": "Our Kids",
+        "team": "Our Team"
+      }
+    },
+    "cta": {
+      "title": "Want to meet us in person?",
+      "subtitle": "Schedule a tour and discover why Tampa families trust us.",
+      "scheduleTour": "Schedule Free Tour",
+      "callNow": "Call Now"
+    }
+  },
+  "termsPage": {
+    "meta": {
+      "title": "Terms & Policies | ABC Kidz Daycare Tampa | Parent Handbook",
+      "description": "Read ABC Kidz daycare terms, enrollment policies, hours, payments, and safety procedures. Download the complete parent handbook. Tampa's trusted childcare center.",
+      "keywords": "ABC Kidz policies, daycare enrollment Tampa, daycare hours Tampa, childcare terms conditions, parent handbook daycare, daycare safety policies"
+    },
+    "hero": {
+      "title": "Terms and Conditions",
+      "subtitle": "Important information about our services, policies and procedures",
+      "lastUpdated": "Last updated",
+      "date": "November 2024"
+    },
+    "sections": {
+      "enrollment": {
+        "title": "Enrollment and Admission",
+        "items": [
+          {
+            "subtitle": "The following requirements are necessary for admission into our preschool:",
+            "content": [
+              "Enrollment application form completed in full",
+              "Registration fee and First week’s tuition paid in full",
+              "Parent handbook receipt signed and on file",
+              "Certificate of Immunization (state required)",
+              "Physical (state required within)"
+            ]
+          }
+        ]
+      },
+      "hours": {
+        "title": "Hours and Operation",
+        "items": [
+          {
+            "subtitle": "Operating Hours",
+            "content": "We are open Monday through Friday from 7:00 AM to 6:00 PM. We remain closed on federal holidays and during year-end holidays according to annual calendar."
+          },
+          {
+            "subtitle": "Drop-off and Pick-up",
+            "content": [
+              "Children must be dropped off and picked up personally by parents or authorized guardians",
+              "Signature required on check-in and check-out log",
+              "No entries are accepted after 9:30 AM as they disrupt activities"
+            ]
+          },
+          {
+            "subtitle": "Holidays",
+            "content": "The center remains closed on federal holidays. An annual calendar is provided at the beginning of the school year with all closure dates."
+          }
+        ]
+      },
+      "payment": {
+        "title": "Payments and Fees",
+        "items": [
+          {
+            "subtitle": "Registration and Weekly Tuition",
+            "content": "A non-refundable initial registration fee is due upon enrollment. Tuition payments are strictly due on a weekly basis and must be settled in full every Monday."
+          },
+          {
+            "subtitle": "Accepted Payment Methods",
+            "content": [
+              "Bank transfer or ACH (preferred)",
+              "Credit or debit card",
+              "Check or money order",
+              "Late pick-up fee: $10 plus $1 per minute",
+              "A non-negotiable late fee of $15 will be automatically applied every Tuesday at 9:30 AM to any outstanding balance"
+            ]
+          },
+          {
+            "subtitle": "Refund and Cancellation Policy",
+            "content": "No credits or refunds are issued for absences, vacations, or statutory holidays. Formal written notice must be submitted a minimum of two (2) weeks prior to the intended cancellation of enrollment."
+          },
+          {
+            "subtitle": "Additional Fees",
+            "content": "Ancillary services such as educational field trips, professional school portraits, or designated special events may incur supplementary charges, which will be disclosed in advance."
+          }
+        ]
+      },
+      "policies": {
+        "title": "General Policies",
+        "items": [
+          {
+            "subtitle": "Illness Policy",
+            "content": [
+              "Children with fever above 100°F cannot attend",
+              "Must stay home for 24 hours after fever subsides without medication",
+              "Notify the center about contagious illnesses",
+              "Staff may request that you pick up a sick child at any time"
+            ]
+          },
+          {
+            "subtitle": "Medications",
+            "content": "Medications will not be administered unless an authorized person is present."
+          },
+          {
+            "subtitle": "Discipline",
+            "content": "We use positive discipline techniques. No physical or verbal punishment is allowed. We work with parents to address behavior issues."
+          },
+          {
+            "subtitle": "Safety",
+            "content": [
+              "Regular fire and emergency drills",
+              "All visitors must register at the front desk",
+              "Security camera system in all areas",
+              "Staff trained in first aid and CPR"
+            ]
+          }
+        ]
+      }
+    },
+    "download": {
+      "title": "Complete Parents Handbook",
+      "description": "For more detailed information about our policies, procedures and services, download our complete handbook.",
+      "button": "Download Complete Handbook (PDF)",
+      "fileInfo": "ABC KIDZ Facility Parents Handbook - PDF"
+    },
+    "contactNote": "Have questions about our terms and policies? Don't hesitate to contact us at (813) 512-2511 or visit us in person."
+  },
+  "blogPage": {
+    "meta": {
+      "title": "Parenting Tips & Child Development Blog | ABC Kidz Tampa",
+      "description": "Expert parenting tips, child development guides, and educational activities from ABC Kidz Tampa. Resources for Tampa parents on early childhood education.",
+      "keywords": "parenting blog Tampa, child development tips, daycare activities ideas, preschool education blog, Tampa childcare resources, early childhood tips"
+    },
+    "hero": {
+      "badge": "Our Blog",
+      "title": "Tips & Resources for Parents",
+      "subtitle": "Discover useful articles about child development, fun activities and practical advice for parents."
+    },
+    "noPosts": "No blog posts yet. Check back soon!",
+    "readMore": "Read more",
+    "backToBlog": "Back to Blog",
+    "writtenBy": "Written by"
+  },
+  "infantsPage": {
+    "meta": {
+      "title": "Infant Daycare Tampa FL | Baby Care 0-12 Months | ABC Kidz",
+      "description": "Tampa's trusted infant daycare for babies 0-12 months. Experienced caregivers, individualized care, sensory development activities. Safe & nurturing. Schedule a tour!",
+      "keywords": "infant daycare Tampa, baby daycare Tampa FL, newborn childcare Tampa, infant care near me, baby care center Tampa, daycare for babies Tampa"
+    },
+    "hero": {
+      "ageBadge": "0-12 Months",
+      "title": "Infants",
+      "tagline": "Loving care. Infants blossom with us.",
+      "description": "Welcoming infants aged 0 to 12 months, our program provides a secure haven for your youngest loved ones."
+    },
+    "content": {
+      "mainTitle": "Where Every Baby Feels Cherished",
+      "paragraph1": "Rooted in individualized care, our experienced caregivers prioritize every child's unique needs, ensuring they feel cherished and supported from the start.",
+      "paragraph2": "Through sensory exploration, infants engage with their surroundings, laying the foundation for cognitive and emotional growth.",
+      "secondaryTitle": "Nurturing Development from Day One",
+      "paragraph3": "Our team's gentle interactions and nurturing environment encourage the development of social connections and a sense of trust.",
+      "paragraph4": "We understand that these formative months are crucial, and our program is designed to provide the utmost care, attention, and stimulation to help infants flourish during their earliest stages of life."
+    },
+    "highlights": {
+      "item1": "Individualized care for each baby",
+      "item2": "Safe and nurturing environment",
+      "item3": "Experienced and caring staff"
+    },
+    "features": {
+      "individualizedCare": {
+        "title": "Individualized Care",
+        "description": "Every baby receives personalized attention tailored to their unique needs and developmental stage."
+      },
+      "sensoryExploration": {
+        "title": "Sensory Exploration",
+        "description": "Engaging activities that stimulate cognitive and emotional growth through discovery."
+      },
+      "gentleInteractions": {
+        "title": "Gentle Interactions",
+        "description": "Nurturing touches and soft voices that build trust and social connections."
+      },
+      "secureEnvironment": {
+        "title": "Secure Environment",
+        "description": "A safe haven designed to help your little one thrive and flourish."
+      }
+    },
+    "trust": {
+      "title": "Licensed & Certified",
+      "subtitle": "State-approved infant care program"
+    }
+  },
+  "toddlersPage": {
+    "meta": {
+      "title": "Toddler Daycare Tampa FL | Ages 1-2 Years | ABC Kidz",
+      "description": "Best toddler daycare in Tampa for ages 1-2 years. Hands-on learning, social skill development, cognitive activities. Bilingual staff. Schedule your free tour today!",
+      "keywords": "toddler daycare Tampa, toddler program Tampa FL, daycare for 1 year old Tampa, daycare for 2 year old Tampa, early learning Tampa, toddler care near me"
+    },
+    "hero": {
+      "ageBadge": "1-2 Years",
+      "title": "Toddlers",
+      "tagline": "Discover, play, grow.",
+      "description": "Guided by the belief that learning is an exciting journey, we foster exploration through hands-on activities that captivate their imagination."
+    },
+    "content": {
+      "mainTitle": "A World of Discovery Awaits",
+      "paragraph1": "As they delve into a world of colors, shapes, and play, these experiences become the building blocks for cognitive development.",
+      "paragraph2": "Interacting with fellow toddlers, they learn to share, communicate, and build essential social skills in a friendly setting.",
+      "secondaryTitle": "Celebrating Every Discovery",
+      "paragraph3": "Our dedicated educators create an atmosphere where every discovery is celebrated, encouraging their enthusiasm for learning.",
+      "paragraph4": "We spark a lifelong love for exploration by nurturing curiosity and providing engaging, age-appropriate activities that help toddlers thrive."
+    },
+    "highlights": {
+      "item1": "Hands-on learning activities",
+      "item2": "Social skill development",
+      "item3": "Safe and stimulating environment"
+    },
+    "features": {
+      "handsOnLearning": {
+        "title": "Hands-On Learning",
+        "description": "Engaging activities that captivate imagination and encourage active exploration."
+      },
+      "cognitiveDevelopment": {
+        "title": "Cognitive Development",
+        "description": "Colors, shapes, and play become building blocks for growing minds."
+      },
+      "socialSkills": {
+        "title": "Social Skills",
+        "description": "Learning to share, communicate, and build friendships with peers."
+      },
+      "dedicatedEducators": {
+        "title": "Dedicated Educators",
+        "description": "Passionate teachers who celebrate every discovery and milestone."
+      }
+    },
+    "trust": {
+      "title": "Play-Based Curriculum",
+      "subtitle": "Developmentally appropriate learning"
+    }
+  },
+  "prekPage": {
+    "meta": {
+      "title": "Pre-K Preschool Tampa FL | Ages 3-4 | Kindergarten Prep | ABC Kidz",
+      "description": "Top-rated Pre-K preschool in Tampa for ages 3-4. Kindergarten preparation, literacy, math foundations, social skills development. Bilingual program. Enroll today!",
+      "keywords": "Pre-K Tampa FL, preschool Tampa, preschool near me Tampa, kindergarten prep Tampa, preschool 3 year old Tampa, preschool 4 year old Tampa, best preschool Tampa"
+    },
+    "hero": {
+      "ageBadge": "3-4 Years",
+      "title": "Pre-K",
+      "tagline": "Confident Kindergarten Start.",
+      "description": "Our Pre-K program, tailored for children aged 3 to 4 years, lays a strong foundation for a successful transition to kindergarten."
+    },
+    "content": {
+      "mainTitle": "Building Strong Foundations",
+      "paragraph1": "Through structured learning, we introduce essential concepts including letters, numbers, literacy, and foundational math skills.",
+      "paragraph2": "Our curriculum fosters social growth by encouraging cooperative play and collaborative projects, honing their ability to communicate and work together effectively.",
+      "secondaryTitle": "Ready for Kindergarten Success",
+      "paragraph3": "Fine motor coordination is nurtured through activities that promote writing readiness, hand-eye coordination, and creative expression.",
+      "paragraph4": "At this crucial age, we create an engaging environment where children develop not only academically, but also socially and emotionally, ensuring they embark on their educational journey with confidence."
+    },
+    "highlights": {
+      "item1": "Letters, numbers & literacy skills",
+      "item2": "Cooperative play & social growth",
+      "item3": "Kindergarten-ready preparation"
+    },
+    "features": {
+      "literacy": {
+        "title": "Literacy & Reading",
+        "description": "Introduction to letters, phonics, and early reading skills that spark a love for books."
+      },
+      "math": {
+        "title": "Math Foundations",
+        "description": "Numbers, counting, shapes, and basic math concepts through fun, hands-on activities."
+      },
+      "socialGrowth": {
+        "title": "Social Growth",
+        "description": "Cooperative play and collaborative projects that teach communication and teamwork."
+      },
+      "motorSkills": {
+        "title": "Fine Motor Skills",
+        "description": "Writing readiness, hand-eye coordination, and creative expression activities."
+      }
+    },
+    "trust": {
+      "title": "Kindergarten Ready",
+      "subtitle": "Comprehensive school preparation program"
+    }
+  },
+  "vpkPage": {
+    "meta": {
+      "title": "FREE VPK Program Tampa FL | Voluntary Pre-K Ages 4-5 | ABC Kidz",
+      "description": "Enroll in Tampa's FREE VPK program at ABC Kidz! State-funded Pre-Kindergarten for 4-5 year olds. School readiness, literacy, math prep. Approved VPK provider. Apply now!",
+      "keywords": "VPK Tampa FL, free VPK Tampa, Voluntary Prekindergarten Tampa, VPK program near me, free preschool Tampa, VPK providers Tampa, state-funded preschool Florida"
+    },
+    "hero": {
+      "ageBadge": "4-5 Years",
+      "title": "VPK",
+      "tagline": "Building Bright Futures Together.",
+      "description": "VPK (Voluntary Pre-Kindergarten) sets the stage for a successful transition to kindergarten, backed by state support.",
+      "stateFunded": "State-Funded Program"
+    },
+    "content": {
+      "mainTitle": "Excellence in Early Education",
+      "paragraph1": "We're dedicated to nurturing language and cognitive growth through interactive experiences that captivate young minds.",
+      "paragraph2": "As they explore math concepts, their understanding deepens, and problem-solving skills develop.",
+      "secondaryTitle": "Ready for Kindergarten Success",
+      "paragraph3": "Our engaging curriculum places special emphasis on pre-reading and pre-writing skills, igniting their literacy journey.",
+      "paragraph4": "Through hands-on learning adventures, children not only grasp essential academic foundations but also cultivate a love for exploration and discovery. With this program, children gain the confidence and readiness they need to embark on their educational path with enthusiasm."
+    },
+    "highlights": {
+      "item1": "State-funded VPK program",
+      "item2": "Pre-reading & pre-writing focus",
+      "item3": "Kindergarten-ready curriculum"
+    },
+    "features": {
+      "language": {
+        "title": "Language Growth",
+        "description": "Interactive experiences that nurture communication and vocabulary development."
+      },
+      "math": {
+        "title": "Math Exploration",
+        "description": "Deepening understanding of math concepts and developing problem-solving skills."
+      },
+      "literacy": {
+        "title": "Pre-Reading Skills",
+        "description": "Special emphasis on pre-reading and pre-writing to ignite their literacy journey."
+      },
+      "confidence": {
+        "title": "School Confidence",
+        "description": "Building the readiness and enthusiasm needed to start kindergarten with confidence."
+      }
+    },
+    "trust": {
+      "title": "State-Approved VPK Provider",
+      "subtitle": "Free program for Florida families"
+    },
+    "newsFeature": {
+      "badge": "As Featured In",
+      "headline": "Early Learning Coalition receives funding for summer program",
+      "description": "ABC Kidz Preschool featured as a showcase program helping children prepare for kindergarten through the Summer Boost Program initiative.",
+      "quote": "It's the first step to build a strong foundation, not only for kindergarten but for lifelong learning.",
+      "attribution": "— Miryam Huby, Lead VPK Teacher at ABC Kidz Preschool",
+      "cta": "Read Full Coverage",
+      "publishedDate": "Published: July 15, 2025"
+    }
+  },
+  "afterSchoolPage": {
+    "meta": {
+      "title": "After School Care Tampa FL | Ages 5-12 | Summer Camp | ABC Kidz",
+      "description": "Reliable after school care in Tampa for ages 5-12. Homework help, enrichment activities, summer camps, school breaks. Safe & fun environment. Flexible scheduling!",
+      "keywords": "after school care Tampa, after school program Tampa FL, summer camp Tampa, school age childcare Tampa, before and after school care, kids camp Tampa"
+    },
+    "hero": {
+      "ageBadge": "5-12 Years",
+      "title": "After School",
+      "tagline": "School's out? We're In.",
+      "description": "The School Age program is for children aged 5 to 12 who, for whatever reason, are not attending school on any given day during the year.",
+      "flexibleCare": "Year-Round Flexible Care"
+    },
+    "content": {
+      "mainTitle": "Enriching Care Beyond School Hours",
+      "paragraph1": "We offer dependable and enriching care that extends beyond academic periods, ensuring children have a safe and stimulating environment year-round.",
+      "paragraph2": "With an array of thoughtfully curated and engaging activities, we foster social engagement and provide opportunities for learning, creativity, and fun.",
+      "secondaryTitle": "Keeping Kids Active & Connected",
+      "paragraph3": "From interactive projects to group activities, our program keeps children actively involved and socially connected.",
+      "paragraph4": "You can trust that your child's time with us will be both enjoyable and meaningful, fostering growth and positive experiences."
+    },
+    "highlights": {
+      "item1": "Year-round dependable care",
+      "item2": "Engaging activities & projects",
+      "item3": "Social connection & fun"
+    },
+    "features": {
+      "yearRound": {
+        "title": "Year-Round Care",
+        "description": "Dependable care that extends beyond school hours, including holidays and summer breaks."
+      },
+      "activities": {
+        "title": "Engaging Activities",
+        "description": "Thoughtfully curated projects that foster creativity, learning, and fun."
+      },
+      "social": {
+        "title": "Social Connection",
+        "description": "Group activities that keep children actively involved and socially connected."
+      },
+      "meaningful": {
+        "title": "Meaningful Time",
+        "description": "Enjoyable experiences that foster growth and positive development."
+      }
+    },
+    "trust": {
+      "title": "Flexible Scheduling",
+      "subtitle": "Available for school breaks & holidays"
+    }
+  }
+}
