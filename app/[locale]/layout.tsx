@@ -116,7 +116,7 @@ export async function generateMetadata({
         
         // Verificación de Google Search Console
         verification: {
-            google: "google-site-verification-code", // TODO: Update based on real needs or env
+            google: seoConfig.verification.google || undefined,
         }
     };
 }

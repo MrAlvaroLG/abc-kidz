@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "seo:check": "node scripts/check-internal-links.js https://www.abckidzpreschool.com/en",
+    "seo:check": "node scripts/check-internal-links.js https://www.abckidzpreschooldaycare.com/en",
     "seo:check-local": "node scripts/check-internal-links.js http://localhost:3000/en"
   },
   "dependencies": {

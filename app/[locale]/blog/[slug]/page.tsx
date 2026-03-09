@@ -4,6 +4,8 @@ import Footer from "@/components/layout/Footer";
 import BlogPost from "@/components/blog/BlogPost";
 import { client } from '@/sanity/lib/client';
 import { postBySlugQuery, postSlugsQuery } from '@/sanity/lib/queries';
+import { generateAlternates } from '@/lib/seo-utils';
+import type { LocaleType } from '@/lib/seo-utils';
 
 interface PostSlug {
     slug: string;
@@ -19,7 +21,7 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }) {
-    const { slug } = await params;
+    const { locale, slug } = await params;
     const post = await client.fetch(postBySlugQuery, { slug });
 
     if (!post) {
@@ -29,8 +31,9 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     }
 
     return {
-        title: `${post.title} | ABC Kids Blog`,
-        description: post.excerpt || `Read ${post.title} on ABC Kids Blog`,
+        title: `${post.title} | ABC Kidz Blog`,
+        description: post.excerpt || `Read ${post.title} on ABC Kidz Blog`,
+        alternates: generateAlternates(locale as LocaleType, `/blog/${slug}`),
     };
 }
 

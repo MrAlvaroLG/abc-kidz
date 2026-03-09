@@ -38,12 +38,12 @@ export function generateAlternates(locale: LocaleType, pathname: string = '') {
         // URL canónica: siempre incluye el locale
         canonical: `${baseUrl}/${locale}${cleanPathname}`,
         
-        // Alternativas de idioma para hreflang
+        // Alternativas de idioma para hreflang (URLs absolutas requeridas por Google)
         languages: {
-            'en': `/en${cleanPathname}`,
-            'es': `/es${cleanPathname}`,
+            'en': `${baseUrl}/en${cleanPathname}`,
+            'es': `${baseUrl}/es${cleanPathname}`,
             // x-default apunta al idioma por defecto
-            'x-default': `/${defaultLocale}${cleanPathname}`,
+            'x-default': `${baseUrl}/${defaultLocale}${cleanPathname}`,
         },
     };
 }
