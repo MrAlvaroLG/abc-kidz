@@ -8,8 +8,15 @@ export default function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
   const url = request.nextUrl.clone();
 
-  // Forzar www: redirigir non-www → www con 308 (permanente)
+  // Redirigir dominio viejo → nuevo preservando la ruta (308 permanente)
   const host = request.headers.get('host') || '';
+  if (host === 'www.abckidzpreschool.com' || host === 'abckidzpreschool.com') {
+    const newUrl = new URL(request.url);
+    newUrl.host = 'www.abckidzpreschooldaycare.com';
+    return NextResponse.redirect(newUrl, 308);
+  }
+
+  // Forzar www: redirigir non-www → www con 308 (permanente)
   if (host === 'abckidzpreschooldaycare.com') {
     const wwwUrl = new URL(request.url);
     wwwUrl.host = 'www.abckidzpreschooldaycare.com';
