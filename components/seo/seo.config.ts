@@ -36,9 +36,9 @@ export const seoConfig = {
         phone: {
             main: "+1-813-787-8322",
             display: "(813) 787-8322",
-            whatsapp: "+1-813-770-4917",
-            whatsappDisplay: "(813) 770-4917",
-            whatsappLink: "https://wa.me/18137704917",
+            whatsapp: "+1-813-787-8322",
+            whatsappDisplay: "(813) 787-8322",
+            whatsappLink: "https://wa.me/18137878322",
         },
         email: "abckidzdirector@gmail.com",
         address: {
