@@ -46,7 +46,7 @@ export function ContactDetails() {
 
                 {/* Phone Card */}
                 <a
-                    href="tel:+18135122511"
+                    href="tel:+18137878322"
                     className="group flex items-start gap-4 p-4 rounded-2xl hover:bg-gray-50 transition-all duration-300"
                 >
                     <div className="w-12 h-12 bg-linear-to-br from-accent to-yellow-400 rounded-xl flex items-center justify-center shrink-0 group-hover:scale-110 transition-all duration-300 shadow-lg shadow-accent/25">
@@ -57,7 +57,7 @@ export function ContactDetails() {
                             {t('phone.title')}
                         </h4>
                         <p className="text-navy-900/70 text-lg font-medium mb-1">
-                            +1 (813) 512-2511
+                            +1 (813) 787-8322
                         </p>
                         <span className="inline-flex items-center gap-1 text-xs font-semibold text-accent group-hover:text-accent-hover transition-colors duration-200">
                             {t('phone.call')}

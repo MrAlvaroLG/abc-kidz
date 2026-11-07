@@ -34,8 +34,8 @@ export const seoConfig = {
     // ============================================
     contact: {
         phone: {
-            main: "+1-813-512-2511",
-            display: "(813) 512-2511",
+            main: "+1-813-787-8322",
+            display: "(813) 787-8322",
             whatsapp: "+1-813-770-4917",
             whatsappDisplay: "(813) 770-4917",
             whatsappLink: "https://wa.me/18137704917",

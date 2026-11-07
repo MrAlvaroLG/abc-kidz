@@ -21,8 +21,8 @@ export default function LocationSection() {
         {
             icon: PhoneIcon,
             label: t('phone.label'),
-            value: '+1 (813) 512-2511',
-            link: 'tel:+18135122511'
+            value: '+1 (813) 787-8322',
+            link: 'tel:+18137878322'
         },
         {
             icon: EnvelopeIcon,

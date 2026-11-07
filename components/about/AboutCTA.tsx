@@ -39,7 +39,7 @@ export default function AboutCTA() {
                             </button>
                         </Link>
 
-                        <a href="tel:+18135122511">
+                        <a href="tel:+18137878322">
                             <button className="group relative overflow-hidden bg-white/10 hover:bg-white/20 backdrop-blur-sm text-white font-bold py-4 px-8 rounded-xl border-2 border-white/30 transition-all duration-300 hover:border-white/50">
                                 <span className="relative z-10 flex items-center justify-center gap-2">
                                     <PhoneIcon className="w-5 h-5" />

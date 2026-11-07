@@ -104,7 +104,7 @@ export default function TermsContent() {
                             {t('download.description')}
                         </p>
                         <a 
-                            href="/ABC KIDZ Facility Parents Handbook.pdf" 
+                            href={t('download.file')}
                             download
                             className="inline-flex items-center gap-3 bg-accent hover:bg-accent-hover text-navy-900 font-bold py-4 px-8 rounded-xl shadow-xl transition-all duration-300 hover:shadow-2xl hover:-translate-y-1"
                         >

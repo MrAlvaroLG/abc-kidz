@@ -46,7 +46,7 @@ export default function ContactHero() {
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 max-w-5xl mx-auto">
                     {/* Phone Card */}
                     <a 
-                        href="tel:+18135122511"
+                        href="tel:+18137878322"
                         className="group bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-white/20 hover:bg-white/20 hover:border-accent/50 transition-all duration-300 animate-fade-in-up hover:scale-105"
                         style={{ animationDelay: '0.2s' }}
                     >
@@ -58,7 +58,7 @@ export default function ContactHero() {
                                 {t('hero.phone')}
                             </p>
                             <p className="text-base font-bold text-white group-hover:text-accent transition-colors duration-300">
-                                +1 (813) 512-2511
+                                +1 (813) 787-8322
                             </p>
                         </div>
                     </a>
