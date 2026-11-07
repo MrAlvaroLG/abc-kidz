@@ -92,7 +92,7 @@ export default function CtaSection() {
                                     <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full max-w-3xl">
                                         {/* WhatsApp Button */}
                                         <a
-                                            href="https://wa.me/18137704917?text=Hello!%20I%27m%20interested%20in%20learning%20more%20about%20ABC%20Kids%20programs."
+                                            href="https://wa.me/18137878322?text=Hello!%20I%27m%20interested%20in%20learning%20more%20about%20ABC%20Kids%20programs."
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="group relative inline-flex items-center justify-center gap-4 px-10 py-6 bg-linear-to-r from-[#25D366] via-[#128C7E] to-[#25D366] text-white rounded-2xl font-bold text-lg shadow-2xl hover:shadow-[#25D366]/50 transition-all duration-500 hover:scale-105 overflow-hidden w-full sm:w-auto whitespace-nowrap"

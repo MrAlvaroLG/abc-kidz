@@ -235,8 +235,8 @@
   },
   "contactPage": {
     "meta": {
-      "title": "Contact ABC Kidz Daycare Tampa | Schedule a Tour | (813) 512-2511",
-      "description": "Contact ABC Kidz daycare in Tampa FL. Schedule a free tour, ask about enrollment, or get info on our childcare programs. Call (813) 512-2511 or fill out our form!",
+      "title": "Contact ABC Kidz Daycare Tampa | Schedule a Tour | (813) 787-8322",
+      "description": "Contact ABC Kidz daycare in Tampa FL. Schedule a free tour, ask about enrollment, or get info on our childcare programs. Call (813) 787-8322 or fill out our form!",
       "keywords": "contact ABC Kidz Tampa, daycare tour Tampa, schedule daycare visit Tampa FL, daycare enrollment Tampa, childcare information Tampa, call daycare Tampa"
     },
     "hero": {
@@ -654,9 +654,10 @@
       "title": "Complete Parents Handbook",
       "description": "For more detailed information about our policies, procedures and services, download our complete handbook.",
       "button": "Download Complete Handbook (PDF)",
-      "fileInfo": "ABC KIDZ Facility Parents Handbook - PDF"
+      "fileInfo": "ABC KIDZ Parents Handbook 2026 - PDF",
+      "file": "/ABC_KIDZ_Parents_Handbook_2026_Eng.pdf"
     },
-    "contactNote": "Have questions about our terms and policies? Don't hesitate to contact us at (813) 512-2511 or visit us in person."
+    "contactNote": "Have questions about our terms and policies? Don't hesitate to contact us at (813) 787-8322 or visit us in person."
   },
   "blogPage": {
     "meta": {

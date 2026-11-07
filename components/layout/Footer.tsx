@@ -39,7 +39,7 @@ export default function Footer() {
         { icon: faFacebook, href: 'https://www.facebook.com/abckidzpreschool', label: 'Facebook' },
         { icon: faInstagram, href: 'https://www.instagram.com/abc_kidz_preschool/', label: 'Instagram' },
         { icon: faTiktok, href: 'https://www.tiktok.com/@abc.kidz.preschool', label: 'TikTok' },
-        { icon: faWhatsapp, href: 'https://wa.me/18137704917', label: 'WhatsApp' }
+        { icon: faWhatsapp, href: 'https://wa.me/18137878322', label: 'WhatsApp' }
     ];
 
     return (
@@ -137,10 +137,10 @@ export default function Footer() {
                                 <li className="flex items-start gap-3">
                                     <PhoneIcon className="w-5 h-5 text-accent shrink-0 mt-0.5" />
                                     <a 
-                                        href="tel:+18135122511"
+                                        href="tel:+18137878322"
                                         className="text-sm text-white/70 hover:text-accent transition-colors duration-200"
                                     >
-                                        +1 (813) 512-2511
+                                        +1 (813) 787-8322
                                     </a>
                                 </li>
                                 <li className="flex items-start gap-3">
